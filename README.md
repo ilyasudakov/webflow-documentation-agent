@@ -46,7 +46,3 @@ The agent uses the following environment variables:
 - `WEBFLOW_API_TOKEN`: Your Webflow API token
 - `WEBFLOW_SITE_ID`: Your Webflow site ID
 - `WEBFLOW_COLLECTION_ID`: The ID of your documentation collection
-
-## License
-
-MIT 
