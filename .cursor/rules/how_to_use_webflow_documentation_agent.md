@@ -1,24 +1,6 @@
-# Cursor Rules for Webflow Documentation Agent
-
-This directory contains custom rules for Cursor AI to help you interact with the Webflow Documentation Agent.
-
 ## Webflow Documentation Agent Rule
 
-The `webflow_docs_agent.json` rule enables Cursor AI to assist you with managing documentation content in Webflow using the `webflow_agent.py` script.
-
-### Prerequisites
-
-Before using this rule, make sure you have:
-
-1. Set up your environment variables in a `.env` file:
-   - `WEBFLOW_API_TOKEN`
-   - `WEBFLOW_SITE_ID`
-   - `WEBFLOW_COLLECTION_ID`
-
-2. Installed the required dependencies:
-   ```
-   pip install -r requirements.txt
-   ```
+This rule contains instructions how to use Webflow integrations.
 
 ### How to Use
 
@@ -26,19 +8,21 @@ Simply ask Cursor AI about managing Webflow documentation using natural language
 
 - "List all documentation items in Webflow"
 - "Get documentation item with ID abc123"
-- "Extract content from item xyz789 at path content.sections.0"
+- "Extract content from item xyz789"
 - "Save content from item xyz789 to a file"
 - "Update the title field in item abc123"
 
-Cursor AI will suggest the appropriate command to run based on your request.
+Cursor AI will suggest the appropriate command to run based on your request. 
+/collection_items directory is used to collect all retrieved documents for analysis by Cursor.
 
 ### Available Commands
 
 The rule supports the following operations:
 
-1. **List Documentation Items**
+1. **List and Save Documentation Items**
    ```
-   python webflow_agent.py list
+   python webflow_agent.py list --save
+   python webflow_agent.py list --save --output-dir "collection_items" --filename "webflow_docs.json"
    ```
 
 2. **Get Documentation Item**
@@ -46,19 +30,28 @@ The rule supports the following operations:
    python webflow_agent.py get {item_id}
    ```
 
-3. **Extract Content**
+3. **Extract and Save Content**
    ```
-   python webflow_agent.py extract {item_id} --path {path}
+   # Extract and save the full document (default behavior)
+   python webflow_agent.py extract {item_id}
+   
+   # Extract specific content using a path (optional)
+   python webflow_agent.py extract {item_id} --path content.sections.0
+   
+   # Specify custom output directory
+   python webflow_agent.py extract {item_id} --output-dir custom_folder
    ```
 
-4. **Save Extracted Content**
+4. **Update Documentation Item**
    ```
-   python webflow_agent.py extract {item_id} --path {path} --save --output-dir collection_items
-   ```
-
-5. **Update Documentation Item**
-   ```
-   python webflow_agent.py update {item_id} --path {path} --content '{json_content}'
+   # Update specific content using a path
+   python webflow_agent.py update {item_id} --path content.sections.0 --content '{"title": "New Title"}'
+   
+   # Update the entire document
+   python webflow_agent.py update {item_id} --content '{"title": "New Title", "content": {...}}'
+   
+   # Update using content from a file
+   python webflow_agent.py update {item_id} --file path/to/content.json
    ```
 
 For more details about each command, refer to the `webflow_agent.py` script or run:

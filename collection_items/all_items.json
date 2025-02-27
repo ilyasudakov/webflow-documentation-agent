@@ -1,0 +1,3103 @@
+[
+  {
+    "id": "66c82ff38455c55e48e0bd6b",
+    "name": "Handling Naming Convention with Wizard Flow Transformation",
+    "lastUpdated": "2024-08-16T06:22:58.859Z",
+    "createdOn": "2024-08-15T16:56:27.492Z",
+    "slug": "handling-naming-convention-with-wizard-flow-transformation"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd64",
+    "name": "Google Search Ads 360 - Troubleshooting",
+    "lastUpdated": "2024-08-12T06:34:47.503Z",
+    "createdOn": "2024-08-12T05:31:51.862Z",
+    "slug": "google-search-ads-360-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd60",
+    "name": "MikMak",
+    "lastUpdated": "2024-07-22T05:45:36.998Z",
+    "createdOn": "2024-07-22T05:41:32.574Z",
+    "slug": "mikmak"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd5d",
+    "name": "Google Analytics 4 - Dynamic Fields",
+    "lastUpdated": "2024-08-06T05:39:37.422Z",
+    "createdOn": "2024-07-10T09:24:26.551Z",
+    "slug": "google-analytics-4-dynamic-fields"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd5b",
+    "name": "AppsFlyer - Troubleshooting",
+    "lastUpdated": "2024-08-12T05:49:23.999Z",
+    "createdOn": "2024-07-05T10:14:40.881Z",
+    "slug": "appsflyer-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd5a",
+    "name": "Adjust API - Custom Events",
+    "lastUpdated": "2024-07-05T11:17:18.503Z",
+    "createdOn": "2024-07-05T08:23:04.472Z",
+    "slug": "adjust-api-custom-events"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd59",
+    "name": "IAS",
+    "lastUpdated": "2024-07-12T05:38:33.620Z",
+    "createdOn": "2024-07-05T05:25:48.986Z",
+    "slug": "ias"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd57",
+    "name": "YouGov - Troubleshooting",
+    "lastUpdated": "2024-08-12T05:46:05.432Z",
+    "createdOn": "2024-07-02T06:49:21.653Z",
+    "slug": "yougov-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd52",
+    "name": "Google Search Ads 360 - Migration Guide",
+    "lastUpdated": "2024-07-01T14:48:33.594Z",
+    "createdOn": "2024-06-28T14:00:50.261Z",
+    "slug": "google-search-ads-360-migration-guide"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd51",
+    "name": "LinkedIn Organic - Troubleshooting",
+    "lastUpdated": "2024-08-12T05:48:30.341Z",
+    "createdOn": "2024-06-28T10:50:24.039Z",
+    "slug": "linkedin-organic-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd4f",
+    "name": "Walmart Connect - Troubleshooting",
+    "lastUpdated": "2024-06-27T05:31:55.118Z",
+    "createdOn": "2024-06-27T05:28:30.540Z",
+    "slug": "walmart-connect-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd4e",
+    "name": "Walmart Connect ",
+    "lastUpdated": "2024-06-27T05:51:10.818Z",
+    "createdOn": "2024-06-27T05:20:20.901Z",
+    "slug": "walmart-connect"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd47",
+    "name": "Instagram - Troubleshooting",
+    "lastUpdated": "2024-07-02T11:41:24.453Z",
+    "createdOn": "2024-06-24T06:23:06.458Z",
+    "slug": "instagram-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd46",
+    "name": "AWS S3",
+    "lastUpdated": "2024-07-31T08:32:10.625Z",
+    "createdOn": "2024-06-18T09:04:00.941Z",
+    "slug": "aws-s3-data-source"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd34",
+    "name": "Data Governance Dashboard",
+    "lastUpdated": "2024-06-18T06:13:26.385Z",
+    "createdOn": "2024-06-10T10:52:40.197Z",
+    "slug": "data-governance-dashboard"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd33",
+    "name": "Rules Library",
+    "lastUpdated": "2024-06-18T06:13:32.361Z",
+    "createdOn": "2024-06-10T10:48:52.552Z",
+    "slug": "rules-library"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd31",
+    "name": "How to create new Data Governance Rule?",
+    "lastUpdated": "2024-06-18T06:13:39.856Z",
+    "createdOn": "2024-06-10T10:22:45.842Z",
+    "slug": "how-to-create-new-data-governance-rule"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd30",
+    "name": "Improvado Data Governance Rule structure",
+    "lastUpdated": "2024-06-18T06:13:50.110Z",
+    "createdOn": "2024-06-10T06:00:57.806Z",
+    "slug": "improvado-data-governance-rule-structure"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd2f",
+    "name": "What is Improvado Data Governance?",
+    "lastUpdated": "2024-06-18T06:13:57.893Z",
+    "createdOn": "2024-06-10T05:31:04.780Z",
+    "slug": "what-is-improvado-data-governance"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd27",
+    "name": "Captiv8",
+    "lastUpdated": "2024-07-10T11:52:55.436Z",
+    "createdOn": "2024-06-05T11:22:07.126Z",
+    "slug": "captiv8"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd1c",
+    "name": "Innovid",
+    "lastUpdated": "2024-07-10T11:51:25.182Z",
+    "createdOn": "2024-05-29T06:02:05.944Z",
+    "slug": "innovid"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd17",
+    "name": "Roundel",
+    "lastUpdated": "2024-05-30T05:19:09.733Z",
+    "createdOn": "2024-05-27T10:34:31.808Z",
+    "slug": "roundel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd16",
+    "name": "Branch Custom Exports",
+    "lastUpdated": "2024-05-27T13:38:28.300Z",
+    "createdOn": "2024-05-27T09:31:07.626Z",
+    "slug": "branch-custom-exports"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd15",
+    "name": "Adelphic DSP",
+    "lastUpdated": "2024-05-27T10:40:17.120Z",
+    "createdOn": "2024-05-27T09:22:08.853Z",
+    "slug": "adelphic-dsp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd14",
+    "name": "CreativeX",
+    "lastUpdated": "2024-07-10T11:49:18.309Z",
+    "createdOn": "2024-05-27T08:15:08.768Z",
+    "slug": "creativex"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd10",
+    "name": "Pinterest Ads - Troubleshooting",
+    "lastUpdated": "2024-08-12T05:49:14.997Z",
+    "createdOn": "2024-05-22T05:10:44.468Z",
+    "slug": "pinterest-ads-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd0b",
+    "name": "Pinterest - Conversions settings",
+    "lastUpdated": "2024-05-16T06:54:40.961Z",
+    "createdOn": "2024-05-16T06:11:38.510Z",
+    "slug": "pinterest---conversions-settings"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bd05",
+    "name": "Qualtrics",
+    "lastUpdated": "2024-07-10T11:54:40.984Z",
+    "createdOn": "2024-05-13T12:13:46.109Z",
+    "slug": "qualtrics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb37",
+    "name": "RTB House",
+    "lastUpdated": "2024-07-10T11:46:38.286Z",
+    "createdOn": "2024-04-19T12:02:31.610Z",
+    "slug": "rtb-house"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb36",
+    "name": "Custom Configuration flow",
+    "lastUpdated": "2024-07-17T10:12:41.721Z",
+    "createdOn": "2024-04-19T07:20:25.525Z",
+    "slug": "custom-configuration-flow"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb35",
+    "name": "How to enable auto extraction for new accounts",
+    "lastUpdated": "2024-07-05T04:14:31.264Z",
+    "createdOn": "2024-04-18T05:33:59.829Z",
+    "slug": "how-to-enable-auto-extraction-for-new-accounts"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb34",
+    "name": "Youtube Organic - Troubleshooting",
+    "lastUpdated": "2024-08-12T05:50:01.952Z",
+    "createdOn": "2024-04-11T07:47:39.551Z",
+    "slug": "youtube-organic-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb33",
+    "name": "SFTP",
+    "lastUpdated": "2024-07-31T08:32:48.933Z",
+    "createdOn": "2024-04-09T06:45:27.221Z",
+    "slug": "sftp-data-source"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb32",
+    "name": "Google Search Ads 360",
+    "lastUpdated": "2024-08-12T06:35:18.133Z",
+    "createdOn": "2024-04-04T14:28:23.620Z",
+    "slug": "google-search-ads-360"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb31",
+    "name": "How to separate data with Workspaces",
+    "lastUpdated": "2024-03-26T17:51:30.871Z",
+    "createdOn": "2024-03-26T17:49:53.871Z",
+    "slug": "how-to-separate-data-with-workspaces"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb16",
+    "name": "Text Note",
+    "lastUpdated": "2024-03-22T04:31:40.748Z",
+    "createdOn": "2024-03-20T04:26:27.991Z",
+    "slug": "text-note"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb15",
+    "name": "AI Recipes",
+    "lastUpdated": "2024-03-22T04:30:56.052Z",
+    "createdOn": "2024-03-20T04:06:26.406Z",
+    "slug": "ai-recipes"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb14",
+    "name": "Column & Filter builder",
+    "lastUpdated": "2024-03-22T04:30:37.296Z",
+    "createdOn": "2024-03-20T03:23:09.360Z",
+    "slug": "column-filter-builder"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb13",
+    "name": "Instacart",
+    "lastUpdated": "2024-07-05T20:00:51.921Z",
+    "createdOn": "2024-03-15T10:03:54.145Z",
+    "slug": "instacart"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb12",
+    "name": "Applovin",
+    "lastUpdated": "2024-03-14T09:21:45.493Z",
+    "createdOn": "2024-03-14T09:20:33.381Z",
+    "slug": "applovin"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb11",
+    "name": "Sprout Social",
+    "lastUpdated": "2024-03-14T08:01:00.662Z",
+    "createdOn": "2024-03-14T08:00:15.932Z",
+    "slug": "sprout-social"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0f",
+    "name": "MySQL",
+    "lastUpdated": "2024-07-31T09:01:21.306Z",
+    "createdOn": "2024-02-26T13:31:55.497Z",
+    "slug": "mysql-data-source"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0e",
+    "name": "How to change user roles (privileges)",
+    "lastUpdated": "2024-03-27T09:09:26.310Z",
+    "createdOn": "2024-02-14T07:52:02.416Z",
+    "slug": "how-to-change-user-roles-privileges"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0d",
+    "name": "Google Analytics 4 - Data threshold",
+    "lastUpdated": "2024-02-14T05:22:31.665Z",
+    "createdOn": "2024-02-14T05:16:13.409Z",
+    "slug": "ga4-data-threshold"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0c",
+    "name": "Tune Network API",
+    "lastUpdated": "2024-02-02T05:31:55.291Z",
+    "createdOn": "2024-02-01T08:08:26.601Z",
+    "slug": "tune-network-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0b",
+    "name": "Azure SQL",
+    "lastUpdated": "2024-07-31T08:58:48.275Z",
+    "createdOn": "2024-01-31T09:18:30.324Z",
+    "slug": "azure-sql-data-source"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb0a",
+    "name": "Email",
+    "lastUpdated": "2024-07-31T08:08:26.446Z",
+    "createdOn": "2024-01-31T09:01:08.699Z",
+    "slug": "email"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb09",
+    "name": "How to work with dates when uploading Flat Data files",
+    "lastUpdated": "2024-07-31T07:56:45.849Z",
+    "createdOn": "2024-01-30T13:27:51.796Z",
+    "slug": "how-to-work-with-dates-when-uploading-flat-data-files"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb08",
+    "name": "Microsoft SQL Server - Troubleshooting",
+    "lastUpdated": "2024-01-23T04:38:41.886Z",
+    "createdOn": "2024-01-23T03:38:59.068Z",
+    "slug": "microsoft-sql-server-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb07",
+    "name": "FTP - Troubleshooting",
+    "lastUpdated": "2024-01-29T08:33:28.681Z",
+    "createdOn": "2024-01-23T03:20:20.822Z",
+    "slug": "ftp-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb06",
+    "name": "DataBricks - Troubleshooting ",
+    "lastUpdated": "2024-01-29T09:07:36.403Z",
+    "createdOn": "2024-01-23T03:18:13.998Z",
+    "slug": "databricks-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb05",
+    "name": "ClickHouse - Troubleshooting",
+    "lastUpdated": "2024-01-29T08:28:55.145Z",
+    "createdOn": "2024-01-23T03:13:11.612Z",
+    "slug": "clickhouse-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb04",
+    "name": "Azure Blob Storage - Troubleshooting ",
+    "lastUpdated": "2024-01-29T08:34:22.655Z",
+    "createdOn": "2024-01-23T03:05:57.611Z",
+    "slug": "azure-blob-storage-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb03",
+    "name": "Cross-Channel",
+    "lastUpdated": "2024-01-23T04:47:31.485Z",
+    "createdOn": "2024-01-17T04:51:11.733Z",
+    "slug": "cross-channel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb02",
+    "name": "Liftoff",
+    "lastUpdated": "2024-01-12T10:26:41.519Z",
+    "createdOn": "2024-01-12T03:38:15.060Z",
+    "slug": "liftoff"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb01",
+    "name": "Harvest",
+    "lastUpdated": "2024-01-24T05:14:48.034Z",
+    "createdOn": "2024-01-11T11:08:24.794Z",
+    "slug": "harvest"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bb00",
+    "name": "MTS DSP",
+    "lastUpdated": "2024-01-11T08:49:59.954Z",
+    "createdOn": "2024-01-11T08:49:59.954Z",
+    "slug": "mts-dsp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baff",
+    "name": "Hybrid",
+    "lastUpdated": "2024-01-11T08:44:13.524Z",
+    "createdOn": "2024-01-11T08:44:13.524Z",
+    "slug": "hybrid"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bafd",
+    "name": "Instagram Hashtag",
+    "lastUpdated": "2024-04-05T07:10:30.427Z",
+    "createdOn": "2024-01-11T08:16:51.829Z",
+    "slug": "instagram-hashtag"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bafc",
+    "name": "RealEstate DP&FAE",
+    "lastUpdated": "2024-01-11T08:09:11.125Z",
+    "createdOn": "2024-01-11T08:09:11.125Z",
+    "slug": "realestate-dp-fae"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bafb",
+    "name": "SalesForce Apex",
+    "lastUpdated": "2024-01-11T08:03:35.758Z",
+    "createdOn": "2024-01-11T08:02:54.617Z",
+    "slug": "salesforce-apex"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bafa",
+    "name": "Convertr",
+    "lastUpdated": "2024-01-11T07:45:05.246Z",
+    "createdOn": "2024-01-11T07:45:05.246Z",
+    "slug": "convertr"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf9",
+    "name": "Brandwatch ",
+    "lastUpdated": "2024-01-11T07:39:36.438Z",
+    "createdOn": "2024-01-11T07:39:36.438Z",
+    "slug": "brandwatch"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf8",
+    "name": "Iterable",
+    "lastUpdated": "2024-01-11T07:35:35.100Z",
+    "createdOn": "2024-01-11T07:35:35.100Z",
+    "slug": "iterable"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf7",
+    "name": "Ttarget",
+    "lastUpdated": "2024-01-11T07:31:21.815Z",
+    "createdOn": "2024-01-11T07:31:21.815Z",
+    "slug": "ttarget"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf6",
+    "name": "Domain",
+    "lastUpdated": "2024-01-11T07:27:06.932Z",
+    "createdOn": "2024-01-11T07:27:06.932Z",
+    "slug": "domain"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf5",
+    "name": "Advangelists",
+    "lastUpdated": "2024-05-21T10:30:55.494Z",
+    "createdOn": "2024-01-11T07:21:30.099Z",
+    "slug": "advangelists"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf4",
+    "name": "Site Impact",
+    "lastUpdated": "2024-04-16T17:45:17.366Z",
+    "createdOn": "2024-01-11T07:12:39.754Z",
+    "slug": "site-impact"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf3",
+    "name": "OWA Pro",
+    "lastUpdated": "2024-01-11T07:07:39.368Z",
+    "createdOn": "2024-01-11T07:07:39.368Z",
+    "slug": "owa-pro"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf2",
+    "name": "Moloco Cloud",
+    "lastUpdated": "2024-04-17T15:16:09.740Z",
+    "createdOn": "2024-01-11T05:56:18.968Z",
+    "slug": "moloco-cloud"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf1",
+    "name": "Outreach",
+    "lastUpdated": "2024-05-21T10:36:57.396Z",
+    "createdOn": "2024-01-11T05:48:41.240Z",
+    "slug": "outreach"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baf0",
+    "name": "idealo Business",
+    "lastUpdated": "2024-04-17T15:22:31.873Z",
+    "createdOn": "2024-01-11T05:39:04.905Z",
+    "slug": "idealo-business"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baef",
+    "name": "XING",
+    "lastUpdated": "2024-01-11T05:30:20.149Z",
+    "createdOn": "2024-01-11T05:25:13.473Z",
+    "slug": "xing"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baee",
+    "name": "Unbounce",
+    "lastUpdated": "2024-04-16T17:19:50.497Z",
+    "createdOn": "2024-01-11T05:14:56.157Z",
+    "slug": "unbounce"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baed",
+    "name": "Exchange Rates Data API (via APILayer)",
+    "lastUpdated": "2024-04-16T17:43:10.758Z",
+    "createdOn": "2024-01-11T05:07:25.585Z",
+    "slug": "exchange-rates-data-api-via-apilayer"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baeb",
+    "name": "Zignal Labs",
+    "lastUpdated": "2024-04-19T10:21:48.573Z",
+    "createdOn": "2024-01-11T04:57:38.992Z",
+    "slug": "zignal-labs"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baea",
+    "name": "SAP HANA - Troubleshooting ",
+    "lastUpdated": "2024-01-23T04:22:34.922Z",
+    "createdOn": "2024-01-10T04:05:03.028Z",
+    "slug": "sap-hana-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae9",
+    "name": "Reddit - Troubleshooting ",
+    "lastUpdated": "2024-07-08T05:59:18.890Z",
+    "createdOn": "2024-01-09T08:09:28.927Z",
+    "slug": "reddit-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae8",
+    "name": "Twitter - Troubleshooting ",
+    "lastUpdated": "2024-06-07T09:18:28.037Z",
+    "createdOn": "2023-12-29T05:12:36.509Z",
+    "slug": "twitter-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae7",
+    "name": "PostgreSQL - Troubleshooting ",
+    "lastUpdated": "2023-12-26T09:19:33.618Z",
+    "createdOn": "2023-12-26T09:19:33.618Z",
+    "slug": "postgresql-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae6",
+    "name": "MySQL - Troubleshooting",
+    "lastUpdated": "2023-12-26T09:03:20.849Z",
+    "createdOn": "2023-12-26T09:03:20.849Z",
+    "slug": "mysql-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae5",
+    "name": "Google Drive",
+    "lastUpdated": "2024-04-01T08:36:09.546Z",
+    "createdOn": "2023-12-22T05:16:34.903Z",
+    "slug": "google-drive-destination"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae4",
+    "name": "Google Cloud Storage - Troubleshooting",
+    "lastUpdated": "2023-12-18T11:44:54.571Z",
+    "createdOn": "2023-12-15T03:03:53.311Z",
+    "slug": "gcs-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae3",
+    "name": "Redshift - Troubleshooting  ",
+    "lastUpdated": "2023-12-18T11:44:45.293Z",
+    "createdOn": "2023-12-14T08:15:15.569Z",
+    "slug": "redshift-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae2",
+    "name": "SFTP - Troubleshooting  ",
+    "lastUpdated": "2024-01-29T09:08:47.855Z",
+    "createdOn": "2023-12-14T03:19:02.980Z",
+    "slug": "sftp-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae1",
+    "name": "AWS S3 - Troubleshooting ",
+    "lastUpdated": "2023-12-18T12:01:04.115Z",
+    "createdOn": "2023-12-13T05:14:10.756Z",
+    "slug": "aws-s3-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bae0",
+    "name": "Snowflake - Troubleshooting",
+    "lastUpdated": "2024-01-29T08:44:25.167Z",
+    "createdOn": "2023-12-12T07:10:48.512Z",
+    "slug": "snowflake-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0badf",
+    "name": "How to assign an Owner role to a workspace member",
+    "lastUpdated": "2024-03-27T09:10:09.503Z",
+    "createdOn": "2023-12-07T05:49:26.585Z",
+    "slug": "how-to-assign-an-owner-role-to-a-workspace-member"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bade",
+    "name": "How to remove a member from a workspace",
+    "lastUpdated": "2024-03-27T09:23:16.589Z",
+    "createdOn": "2023-12-07T05:48:41.795Z",
+    "slug": "how-to-remove-a-member-from-a-workspace"
+  },
+  {
+    "id": "66c82ff38455c55e48e0badd",
+    "name": "How to edit workspace details",
+    "lastUpdated": "2024-02-19T13:59:13.683Z",
+    "createdOn": "2023-12-07T05:41:08.645Z",
+    "slug": "how-to-edit-workspace-details"
+  },
+  {
+    "id": "66c82ff38455c55e48e0badc",
+    "name": "TikTok Ads - Troubleshooting",
+    "lastUpdated": "2024-07-08T05:57:04.224Z",
+    "createdOn": "2023-11-30T09:15:34.867Z",
+    "slug": "tiktok-ads-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0badb",
+    "name": " Azure SQL - Troubleshooting ",
+    "lastUpdated": "2024-01-29T09:09:23.854Z",
+    "createdOn": "2023-11-30T09:09:50.556Z",
+    "slug": "azure-sql-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad9",
+    "name": "Google BigQuery - Troubleshooting",
+    "lastUpdated": "2023-12-14T03:21:39.388Z",
+    "createdOn": "2023-11-27T10:32:08.819Z",
+    "slug": "google-bigquery-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad8",
+    "name": "Google BigQuery",
+    "lastUpdated": "2024-07-05T13:04:04.246Z",
+    "createdOn": "2023-11-27T04:35:51.724Z",
+    "slug": "google-bigquery"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad7",
+    "name": "Adserving",
+    "lastUpdated": "2024-01-11T14:37:45.446Z",
+    "createdOn": "2023-11-21T03:17:04.365Z",
+    "slug": "adserving"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad6",
+    "name": "VideoAmigo",
+    "lastUpdated": "2023-11-14T10:34:09.966Z",
+    "createdOn": "2023-11-13T11:20:15.664Z",
+    "slug": "videoamigo"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad5",
+    "name": "ON24",
+    "lastUpdated": "2024-02-08T09:39:16.506Z",
+    "createdOn": "2023-11-10T03:27:12.242Z",
+    "slug": "on24"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad4",
+    "name": "ProxyClick",
+    "lastUpdated": "2023-11-14T10:25:19.392Z",
+    "createdOn": "2023-11-10T03:23:09.467Z",
+    "slug": "proxyclick"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad3",
+    "name": "Sistrix",
+    "lastUpdated": "2023-11-14T10:02:15.714Z",
+    "createdOn": "2023-10-27T07:48:34.817Z",
+    "slug": "sistrix"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad2",
+    "name": "File Import",
+    "lastUpdated": "2024-07-31T08:14:35.559Z",
+    "createdOn": "2023-10-24T14:42:24.587Z",
+    "slug": "file-import"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad1",
+    "name": "TikTok Organic",
+    "lastUpdated": "2023-11-14T09:45:06.404Z",
+    "createdOn": "2023-10-23T05:56:46.257Z",
+    "slug": "tiktok-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bad0",
+    "name": "Adobe Workfront",
+    "lastUpdated": "2023-11-14T09:46:20.481Z",
+    "createdOn": "2023-10-23T05:52:00.422Z",
+    "slug": "adobe-workfront"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bacf",
+    "name": "Emarsys",
+    "lastUpdated": "2023-11-14T09:50:34.607Z",
+    "createdOn": "2023-10-23T05:47:27.099Z",
+    "slug": "emarsys"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bace",
+    "name": "Invoca Network",
+    "lastUpdated": "2024-01-15T08:55:52.686Z",
+    "createdOn": "2023-10-23T05:39:19.024Z",
+    "slug": "invoca-network"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bacd",
+    "name": "Media Alpha",
+    "lastUpdated": "2023-12-17T12:05:03.264Z",
+    "createdOn": "2023-10-20T07:27:59.133Z",
+    "slug": "media-alpha"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bacc",
+    "name": "Equativ (Smart Adserver)",
+    "lastUpdated": "2023-12-17T12:05:20.148Z",
+    "createdOn": "2023-10-20T07:24:03.405Z",
+    "slug": "equativ"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bacb",
+    "name": "Belboon",
+    "lastUpdated": "2023-12-29T13:29:03.809Z",
+    "createdOn": "2023-10-20T07:21:04.462Z",
+    "slug": "belboon"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baca",
+    "name": "InfoPlus",
+    "lastUpdated": "2023-12-17T12:05:48.314Z",
+    "createdOn": "2023-10-20T07:18:18.529Z",
+    "slug": "infoplus"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac8",
+    "name": "Buzzoola",
+    "lastUpdated": "2023-12-13T08:25:24.156Z",
+    "createdOn": "2023-10-20T07:13:27.675Z",
+    "slug": "buzzoola"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac7",
+    "name": "Botify",
+    "lastUpdated": "2023-12-13T08:10:16.436Z",
+    "createdOn": "2023-10-20T07:10:14.406Z",
+    "slug": "botify"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac6",
+    "name": "Convention Data Services (CDS) Bridge Lite",
+    "lastUpdated": "2023-12-17T12:04:38.774Z",
+    "createdOn": "2023-10-20T07:04:59.986Z",
+    "slug": "convention-data-services-bridge-lite"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac5",
+    "name": "Adition",
+    "lastUpdated": "2023-12-13T08:19:39.079Z",
+    "createdOn": "2023-10-20T07:00:48.689Z",
+    "slug": "adition"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac4",
+    "name": "STAT Search Analytics",
+    "lastUpdated": "2023-12-13T07:41:16.359Z",
+    "createdOn": "2023-10-20T06:54:57.599Z",
+    "slug": "stat-search-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac3",
+    "name": "Byyd",
+    "lastUpdated": "2023-12-13T07:34:05.214Z",
+    "createdOn": "2023-10-20T06:51:27.214Z",
+    "slug": "byyd"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac2",
+    "name": "How to Switch Connection for Existing Extraction Orders",
+    "lastUpdated": "2023-11-29T02:49:19.965Z",
+    "createdOn": "2023-10-19T10:00:41.212Z",
+    "slug": "how-to-switch-connection-for-existing-extraction-orders"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac1",
+    "name": "YouGov",
+    "lastUpdated": "2024-07-02T06:50:20.613Z",
+    "createdOn": "2023-10-18T05:56:33.372Z",
+    "slug": "yougov"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bac0",
+    "name": "LightspeedVT",
+    "lastUpdated": "2023-11-28T08:21:08.385Z",
+    "createdOn": "2023-10-18T05:53:36.354Z",
+    "slug": "lightspeedvt"
+  },
+  {
+    "id": "66c82ff38455c55e48e0babf",
+    "name": "Rambler Leto (SB)",
+    "lastUpdated": "2023-11-28T08:41:03.007Z",
+    "createdOn": "2023-10-18T05:50:30.367Z",
+    "slug": "rambler-leto-sb"
+  },
+  {
+    "id": "66c82ff38455c55e48e0babe",
+    "name": "SiteImprove",
+    "lastUpdated": "2023-11-28T08:05:08.492Z",
+    "createdOn": "2023-10-18T05:45:40.346Z",
+    "slug": "siteimprove"
+  },
+  {
+    "id": "66c82ff38455c55e48e0babd",
+    "name": "ActiveCampaign",
+    "lastUpdated": "2023-11-28T07:59:19.714Z",
+    "createdOn": "2023-10-18T05:41:54.065Z",
+    "slug": "activecampaign"
+  },
+  {
+    "id": "66c82ff38455c55e48e0babc",
+    "name": "Freshdesk",
+    "lastUpdated": "2023-11-28T07:56:17.524Z",
+    "createdOn": "2023-10-18T05:37:51.533Z",
+    "slug": "freshdesk"
+  },
+  {
+    "id": "66c82ff38455c55e48e0babb",
+    "name": "Adobe Analytics Data Feed",
+    "lastUpdated": "2023-11-23T11:25:34.402Z",
+    "createdOn": "2023-10-18T05:32:29.280Z",
+    "slug": "adobe-analytics-data-feed"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baba",
+    "name": "Campaign Monitor",
+    "lastUpdated": "2023-11-28T07:53:42.391Z",
+    "createdOn": "2023-10-18T05:28:20.859Z",
+    "slug": "campaign-monitor"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab9",
+    "name": "ACME",
+    "lastUpdated": "2023-11-23T11:06:04.364Z",
+    "createdOn": "2023-10-18T02:36:39.962Z",
+    "slug": "acme"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab8",
+    "name": "Tune Affiliate",
+    "lastUpdated": "2024-01-15T08:56:47.954Z",
+    "createdOn": "2023-10-18T02:33:09.798Z",
+    "slug": "tune-affiliate"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab7",
+    "name": "Jampp API",
+    "lastUpdated": "2024-04-05T04:51:29.647Z",
+    "createdOn": "2023-10-17T03:14:50.955Z",
+    "slug": "jampp-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab6",
+    "name": "DoubleVerify",
+    "lastUpdated": "2024-06-24T11:02:26.134Z",
+    "createdOn": "2023-10-16T09:25:39.636Z",
+    "slug": "doubleverify"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab5",
+    "name": "Reddit - Custom Events",
+    "lastUpdated": "2023-12-04T11:59:41.441Z",
+    "createdOn": "2023-09-18T05:39:29.976Z",
+    "slug": "reddit-custom-events"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab4",
+    "name": "Email Marketing",
+    "lastUpdated": "2023-10-19T12:04:00.621Z",
+    "createdOn": "2023-09-08T04:47:41.963Z",
+    "slug": "email-marketing"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab3",
+    "name": "Facebook - Troubleshooting",
+    "lastUpdated": "2024-07-17T06:59:38.861Z",
+    "createdOn": "2023-09-04T10:08:16.624Z",
+    "slug": "facebook-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab2",
+    "name": "Google Analytics 4 - Troubleshooting",
+    "lastUpdated": "2024-07-08T05:54:56.638Z",
+    "createdOn": "2023-08-28T07:43:40.648Z",
+    "slug": "google-analytics-4-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab1",
+    "name": "Mobile Analytics",
+    "lastUpdated": "2023-10-19T12:04:07.781Z",
+    "createdOn": "2023-08-28T05:41:12.883Z",
+    "slug": "mobile-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0bab0",
+    "name": "Ortto (AutoPilot)",
+    "lastUpdated": "2023-10-19T12:04:08.547Z",
+    "createdOn": "2023-08-25T05:46:01.912Z",
+    "slug": "ortto"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baaf",
+    "name": "Pepperjam",
+    "lastUpdated": "2023-10-19T12:04:09.846Z",
+    "createdOn": "2023-08-25T05:43:49.053Z",
+    "slug": "pepperjam"
+  },
+  {
+    "id": "66c82ff38455c55e48e0baae",
+    "name": "Segmento",
+    "lastUpdated": "2023-10-19T12:04:12.409Z",
+    "createdOn": "2023-08-25T05:41:42.338Z",
+    "slug": "segmento"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba85",
+    "name": "Soloway",
+    "lastUpdated": "2023-10-19T12:04:13.782Z",
+    "createdOn": "2023-08-25T05:39:21.812Z",
+    "slug": "soloway"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba84",
+    "name": "RevContent",
+    "lastUpdated": "2023-10-19T12:04:11.989Z",
+    "createdOn": "2023-08-25T05:36:51.790Z",
+    "slug": "revcontent"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba83",
+    "name": "How to invite users to a workspace",
+    "lastUpdated": "2024-03-26T11:14:13.000Z",
+    "createdOn": "2023-08-17T07:44:40.709Z",
+    "slug": "how-to-invite-users-to-a-workspace"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba82",
+    "name": "How to create a workspace",
+    "lastUpdated": "2024-03-26T10:35:56.896Z",
+    "createdOn": "2023-08-17T07:43:24.397Z",
+    "slug": "how-to-create-a-workspace"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba81",
+    "name": "How to manage members in a workspace",
+    "lastUpdated": "2023-12-07T06:38:33.786Z",
+    "createdOn": "2023-08-17T07:41:34.894Z",
+    "slug": "how-to-manage-members-in-a-workspace"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba80",
+    "name": "How to switch between workspaces",
+    "lastUpdated": "2023-12-07T06:31:43.424Z",
+    "createdOn": "2023-08-17T07:40:40.624Z",
+    "slug": "how-to-switch-between-workspaces"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7f",
+    "name": "Partnerize",
+    "lastUpdated": "2023-10-19T12:04:09.676Z",
+    "createdOn": "2023-07-31T09:52:25.645Z",
+    "slug": "partnerize"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7e",
+    "name": "Eventbrite",
+    "lastUpdated": "2023-10-19T12:04:00.616Z",
+    "createdOn": "2023-07-31T09:30:10.250Z",
+    "slug": "eventbrite"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7d",
+    "name": "Mixpanel",
+    "lastUpdated": "2023-10-19T12:04:07.785Z",
+    "createdOn": "2023-07-31T09:24:37.349Z",
+    "slug": "mixpanel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7c",
+    "name": "Pipedrive",
+    "lastUpdated": "2024-01-11T04:35:53.870Z",
+    "createdOn": "2023-07-31T09:20:06.952Z",
+    "slug": "pipedrive"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7b",
+    "name": "Terminus",
+    "lastUpdated": "2023-10-19T12:04:14.452Z",
+    "createdOn": "2023-07-31T09:16:26.159Z",
+    "slug": "terminus"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba7a",
+    "name": "Piwik PRO",
+    "lastUpdated": "2024-06-20T10:57:55.482Z",
+    "createdOn": "2023-07-31T08:58:26.615Z",
+    "slug": "piwik-pro"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba79",
+    "name": "Google Ads - Troubleshooting",
+    "lastUpdated": "2024-07-30T04:40:47.544Z",
+    "createdOn": "2023-07-27T13:58:32.734Z",
+    "slug": "google-ads-troubleshooting"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba78",
+    "name": "Improvado Notifications",
+    "lastUpdated": "2024-06-03T08:23:52.372Z",
+    "createdOn": "2023-07-26T08:42:52.666Z",
+    "slug": "notification-center"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba77",
+    "name": "Spotify Ads",
+    "lastUpdated": "2023-10-19T12:04:13.791Z",
+    "createdOn": "2023-07-17T06:43:44.614Z",
+    "slug": "spotify-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba76",
+    "name": "Northbeam",
+    "lastUpdated": "2024-03-19T07:03:52.316Z",
+    "createdOn": "2023-07-17T06:41:13.908Z",
+    "slug": "northbeam"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba74",
+    "name": "Ad Preview",
+    "lastUpdated": "2023-11-11T11:43:56.347Z",
+    "createdOn": "2023-07-14T09:29:46.319Z",
+    "slug": "ad-preview"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba73",
+    "name": "Google Analytics 4 - Sessions metric",
+    "lastUpdated": "2023-10-19T12:04:01.975Z",
+    "createdOn": "2023-07-11T02:47:47.206Z",
+    "slug": "ga4-sessions-metric"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba72",
+    "name": "Recipe Observability",
+    "lastUpdated": "2023-10-19T12:04:11.255Z",
+    "createdOn": "2023-07-10T05:54:25.440Z",
+    "slug": "recipe-observability"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba71",
+    "name": "Paid Social",
+    "lastUpdated": "2023-10-19T12:04:09.491Z",
+    "createdOn": "2023-06-23T10:46:27.217Z",
+    "slug": "paid-social"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba70",
+    "name": "SEO",
+    "lastUpdated": "2023-10-19T12:04:12.694Z",
+    "createdOn": "2023-06-23T05:18:25.475Z",
+    "slug": "seo"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6f",
+    "name": "How to Create Extraction Template with Custom Configuration",
+    "lastUpdated": "2024-05-08T08:20:23.441Z",
+    "createdOn": "2023-06-21T10:05:07.727Z",
+    "slug": "api-configurator"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6e",
+    "name": "Bing Webmaster Tools",
+    "lastUpdated": "2023-11-11T11:43:56.322Z",
+    "createdOn": "2023-06-16T07:18:23.525Z",
+    "slug": "bing-webmaster-tools"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6d",
+    "name": "CallTrackingMetrics",
+    "lastUpdated": "2023-11-11T11:43:56.325Z",
+    "createdOn": "2023-06-16T07:16:40.367Z",
+    "slug": "calltrackingmetrics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6c",
+    "name": "Criteo Retail Media",
+    "lastUpdated": "2023-11-11T11:43:56.315Z",
+    "createdOn": "2023-06-16T07:12:33.335Z",
+    "slug": "criteo-retail-media"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6b",
+    "name": "Zemanta",
+    "lastUpdated": "2023-11-11T11:43:57.414Z",
+    "createdOn": "2023-06-16T06:46:30.137Z",
+    "slug": "zemanta"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba6a",
+    "name": "Stripe",
+    "lastUpdated": "2023-10-19T12:04:14.075Z",
+    "createdOn": "2023-06-16T06:44:15.399Z",
+    "slug": "stripe"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba69",
+    "name": "Spotify Organic",
+    "lastUpdated": "2023-11-11T11:43:57.384Z",
+    "createdOn": "2023-06-16T06:36:54.955Z",
+    "slug": "spotify-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba68",
+    "name": "Recharge Payments",
+    "lastUpdated": "2024-04-05T11:08:23.354Z",
+    "createdOn": "2023-06-16T06:35:04.930Z",
+    "slug": "recharge-payments"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba67",
+    "name": "Recurly",
+    "lastUpdated": "2023-11-11T11:43:57.400Z",
+    "createdOn": "2023-06-16T06:32:18.414Z",
+    "slug": "recurly"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba66",
+    "name": "GetCake",
+    "lastUpdated": "2023-11-11T11:43:56.681Z",
+    "createdOn": "2023-06-16T06:29:29.215Z",
+    "slug": "getcake"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba65",
+    "name": "eBay",
+    "lastUpdated": "2023-11-11T11:43:56.652Z",
+    "createdOn": "2023-06-16T06:26:51.863Z",
+    "slug": "ebay"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba63",
+    "name": "Weborama",
+    "lastUpdated": "2023-10-29T17:42:30.707Z",
+    "createdOn": "2023-06-16T03:50:31.437Z",
+    "slug": "weborama"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba62",
+    "name": "Moat",
+    "lastUpdated": "2024-08-01T07:35:01.284Z",
+    "createdOn": "2023-06-16T03:48:37.490Z",
+    "slug": "moat"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba61",
+    "name": "MediaMath",
+    "lastUpdated": "2023-10-19T12:04:07.286Z",
+    "createdOn": "2023-06-16T03:46:23.613Z",
+    "slug": "mediamath"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba60",
+    "name": "Capterra",
+    "lastUpdated": "2023-10-19T12:03:59.565Z",
+    "createdOn": "2023-06-16T03:44:11.787Z",
+    "slug": "capterra"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5f",
+    "name": "SlickJump",
+    "lastUpdated": "2023-10-19T12:04:13.458Z",
+    "createdOn": "2023-06-15T13:08:03.934Z",
+    "slug": "slickjump"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5e",
+    "name": "Getintent",
+    "lastUpdated": "2023-10-19T12:04:02.105Z",
+    "createdOn": "2023-06-15T12:43:23.760Z",
+    "slug": "getintent"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5d",
+    "name": "AWIN",
+    "lastUpdated": "2023-11-23T06:30:55.049Z",
+    "createdOn": "2023-06-15T12:40:40.135Z",
+    "slug": "awin"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5c",
+    "name": "AppsFlyer Master API",
+    "lastUpdated": "2023-10-19T12:03:58.041Z",
+    "createdOn": "2023-06-15T12:38:01.896Z",
+    "slug": "appsflyer-master-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5b",
+    "name": "AppsFlyer SKAdNetwork",
+    "lastUpdated": "2023-10-19T12:03:58.115Z",
+    "createdOn": "2023-06-15T12:35:14.595Z",
+    "slug": "appsflyer-skadnetwork"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba5a",
+    "name": "Simpli.fi",
+    "lastUpdated": "2023-10-19T12:04:13.629Z",
+    "createdOn": "2023-06-15T12:32:40.566Z",
+    "slug": "simpli-fi"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba59",
+    "name": "AppTweak",
+    "lastUpdated": "2023-10-19T12:03:58.165Z",
+    "createdOn": "2023-06-02T08:48:00.705Z",
+    "slug": "apptweak"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba58",
+    "name": "Google Analytics 4",
+    "lastUpdated": "2024-07-19T07:06:37.966Z",
+    "createdOn": "2023-05-24T06:35:04.347Z",
+    "slug": "google-analytics-4"
+  },
+  {
+    "id": "66c82ff38455c55e48e0ba57",
+    "name": "Zoho CRM",
+    "lastUpdated": "2023-10-19T12:04:17.534Z",
+    "createdOn": "2023-05-22T06:18:10.047Z",
+    "slug": "zoho-crm"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a962",
+    "name": "Output Tables (Reports)",
+    "lastUpdated": "2023-10-19T12:03:58.352Z",
+    "createdOn": "2023-05-17T06:43:43.564Z",
+    "slug": "attribution-output-tables-reports"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a961",
+    "name": "Data Specifications",
+    "lastUpdated": "2023-10-19T12:03:58.190Z",
+    "createdOn": "2023-05-17T06:11:28.021Z",
+    "slug": "attribution-data-specifications"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a960",
+    "name": "Product Overview",
+    "lastUpdated": "2023-10-19T12:04:18.193Z",
+    "createdOn": "2023-05-17T06:02:41.078Z",
+    "slug": "attribution-product-overview"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95f",
+    "name": "Available Attribution Models",
+    "lastUpdated": "2023-10-19T12:03:58.384Z",
+    "createdOn": "2023-05-17T05:39:02.661Z",
+    "slug": "available-attribution-models"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95e",
+    "name": "Beeswax Entity",
+    "lastUpdated": "2023-10-19T12:03:59.284Z",
+    "createdOn": "2023-05-16T05:13:16.399Z",
+    "slug": "beeswax-entity"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95d",
+    "name": "VK Ads Clients",
+    "lastUpdated": "2023-10-19T12:04:15.751Z",
+    "createdOn": "2023-05-16T05:09:21.333Z",
+    "slug": "vk-ads-clients"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95c",
+    "name": "Yandex Direct",
+    "lastUpdated": "2023-10-19T12:04:17.466Z",
+    "createdOn": "2023-05-16T05:05:17.779Z",
+    "slug": "yandex-direct"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95b",
+    "name": "Branch",
+    "lastUpdated": "2023-10-19T12:03:59.310Z",
+    "createdOn": "2023-05-16T05:02:21.006Z",
+    "slug": "branch"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a95a",
+    "name": "Basis Platform API",
+    "lastUpdated": "2023-10-19T12:03:59.139Z",
+    "createdOn": "2023-05-16T04:58:03.833Z",
+    "slug": "basis-platform-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a959",
+    "name": "Microsoft Entra ID Single Sign-On",
+    "lastUpdated": "2024-07-22T11:20:33.512Z",
+    "createdOn": "2023-05-12T11:45:00.654Z",
+    "slug": "microsoft-entra-id-single-sign-on"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a958",
+    "name": "Rakuten Advertising",
+    "lastUpdated": "2023-10-19T12:04:10.799Z",
+    "createdOn": "2023-05-03T13:16:10.466Z",
+    "slug": "rakuten-advertising"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a957",
+    "name": "VK Ads",
+    "lastUpdated": "2023-10-19T12:04:15.776Z",
+    "createdOn": "2023-05-03T13:12:50.761Z",
+    "slug": "vk-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a956",
+    "name": "Kochava",
+    "lastUpdated": "2023-10-19T12:04:06.992Z",
+    "createdOn": "2023-05-03T13:06:57.286Z",
+    "slug": "kochava"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a955",
+    "name": "Placed",
+    "lastUpdated": "2023-12-29T13:27:41.176Z",
+    "createdOn": "2023-05-03T13:02:56.410Z",
+    "slug": "placed"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a954",
+    "name": "TVSquared",
+    "lastUpdated": "2024-02-13T11:32:53.014Z",
+    "createdOn": "2023-05-03T13:00:25.010Z",
+    "slug": "tvsquared"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a953",
+    "name": "RedTrack",
+    "lastUpdated": "2023-10-19T12:04:11.340Z",
+    "createdOn": "2023-05-03T12:57:05.088Z",
+    "slug": "redtrack"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a951",
+    "name": "LiveIntent ",
+    "lastUpdated": "2023-10-19T12:04:06.752Z",
+    "createdOn": "2023-05-03T12:52:56.874Z",
+    "slug": "liveintent"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a950",
+    "name": "Advantage",
+    "lastUpdated": "2023-10-19T12:03:56.599Z",
+    "createdOn": "2023-05-03T09:41:08.933Z",
+    "slug": "advantage"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94f",
+    "name": "Imho",
+    "lastUpdated": "2024-01-11T15:16:15.282Z",
+    "createdOn": "2023-05-03T09:36:23.774Z",
+    "slug": "imho"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94e",
+    "name": "Zendesk",
+    "lastUpdated": "2023-10-19T12:04:17.481Z",
+    "createdOn": "2023-05-03T09:31:41.935Z",
+    "slug": "zendesk"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94d",
+    "name": "Okta Single Sign-On",
+    "lastUpdated": "2023-10-19T12:04:08.221Z",
+    "createdOn": "2023-04-27T05:57:46.977Z",
+    "slug": "okta-single-sign-on"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94c",
+    "name": "TUNE (HasOffers)",
+    "lastUpdated": "2023-10-19T12:04:14.881Z",
+    "createdOn": "2023-04-26T07:26:46.494Z",
+    "slug": "tune-hasoffers"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94b",
+    "name": "Amazon Seller Central",
+    "lastUpdated": "2024-04-11T09:43:25.880Z",
+    "createdOn": "2023-04-26T07:20:24.936Z",
+    "slug": "amazon-seller-central"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a94a",
+    "name": "Basis DSP (Centro DSP)",
+    "lastUpdated": "2023-10-19T12:03:58.779Z",
+    "createdOn": "2023-04-26T07:08:43.006Z",
+    "slug": "basis-dsp-centro-dsp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a949",
+    "name": "Outbrain",
+    "lastUpdated": "2023-10-19T12:04:08.518Z",
+    "createdOn": "2023-04-26T07:03:13.727Z",
+    "slug": "outbrain"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a948",
+    "name": "CallRail",
+    "lastUpdated": "2023-10-19T12:03:59.484Z",
+    "createdOn": "2023-04-26T06:55:22.589Z",
+    "slug": "callrail"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a947",
+    "name": "Rokt",
+    "lastUpdated": "2023-10-19T12:04:11.988Z",
+    "createdOn": "2023-04-17T02:41:03.051Z",
+    "slug": "rokt"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a946",
+    "name": "Salsify",
+    "lastUpdated": "2023-10-19T12:04:12.321Z",
+    "createdOn": "2023-04-17T02:32:31.135Z",
+    "slug": "salsify"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a945",
+    "name": "How to use MCDM Dashboard templates",
+    "lastUpdated": "2024-04-19T08:02:55.226Z",
+    "createdOn": "2023-04-13T03:53:14.373Z",
+    "slug": "how-to-use-mcdm-dashboard-templates"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a944",
+    "name": "How to run a Recipe",
+    "lastUpdated": "2023-10-19T12:04:04.945Z",
+    "createdOn": "2023-04-12T06:02:12.776Z",
+    "slug": "how-to-run-a-recipe"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a943",
+    "name": "Impact",
+    "lastUpdated": "2024-01-15T08:47:35.924Z",
+    "createdOn": "2023-04-04T03:34:30.464Z",
+    "slug": "impact-radius"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a942",
+    "name": "Reddit",
+    "lastUpdated": "2024-01-31T07:16:01.599Z",
+    "createdOn": "2023-04-04T03:31:28.586Z",
+    "slug": "reddit"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a940",
+    "name": "Marilyn",
+    "lastUpdated": "2023-10-19T12:04:07.089Z",
+    "createdOn": "2023-04-04T03:28:38.829Z",
+    "slug": "marilyn"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93f",
+    "name": "GRIN",
+    "lastUpdated": "2023-10-19T12:04:03.309Z",
+    "createdOn": "2023-04-04T03:24:45.574Z",
+    "slug": "grin"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93e",
+    "name": "Amazon Advertising DSP",
+    "lastUpdated": "2023-10-19T12:03:57.771Z",
+    "createdOn": "2023-04-04T03:20:58.385Z",
+    "slug": "amazon-advertising-dsp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93d",
+    "name": "Oracle NetSuite",
+    "lastUpdated": "2023-10-19T12:04:09.949Z",
+    "createdOn": "2023-03-31T02:29:30.237Z",
+    "slug": "oracle-netsuite"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93c",
+    "name": "iSpot",
+    "lastUpdated": "2023-10-19T12:04:06.369Z",
+    "createdOn": "2023-03-28T07:12:47.122Z",
+    "slug": "ispot"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93b",
+    "name": "Xandr",
+    "lastUpdated": "2023-10-19T12:04:17.051Z",
+    "createdOn": "2023-03-27T08:37:26.275Z",
+    "slug": "xandr"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a93a",
+    "name": "Yandex Metrica",
+    "lastUpdated": "2023-10-19T12:04:17.339Z",
+    "createdOn": "2023-03-27T05:38:27.213Z",
+    "slug": "yandex-metrica"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a939",
+    "name": "Fanpage Karma",
+    "lastUpdated": "2023-10-19T12:04:01.339Z",
+    "createdOn": "2023-03-27T05:35:32.757Z",
+    "slug": "fanpage-karma"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a938",
+    "name": "Amazon Vendor Central",
+    "lastUpdated": "2023-10-19T12:03:57.791Z",
+    "createdOn": "2023-03-27T05:28:52.583Z",
+    "slug": "amazon-vendor-central"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a937",
+    "name": "Amazon MWS",
+    "lastUpdated": "2023-10-19T12:04:18.109Z",
+    "createdOn": "2023-03-27T05:24:20.844Z",
+    "slug": "amazon-mws"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a936",
+    "name": "Amazon Attribution",
+    "lastUpdated": "2023-10-19T12:03:57.649Z",
+    "createdOn": "2023-03-27T03:55:46.660Z",
+    "slug": "amazon-attribution"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a935",
+    "name": "MCDM Data Normalization",
+    "lastUpdated": "2023-10-19T12:04:07.619Z",
+    "createdOn": "2023-03-24T06:35:25.133Z",
+    "slug": "mcdm-data-normalization"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a934",
+    "name": "UTM Audit",
+    "lastUpdated": "2024-04-19T08:01:42.839Z",
+    "createdOn": "2023-03-24T06:34:02.778Z",
+    "slug": "utm-audit"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a933",
+    "name": "Paid Ads Google Analytics",
+    "lastUpdated": "2024-05-17T06:25:03.961Z",
+    "createdOn": "2023-03-17T09:11:42.033Z",
+    "slug": "paid-ads-google-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a932",
+    "name": "Organic",
+    "lastUpdated": "2023-10-19T12:04:08.478Z",
+    "createdOn": "2023-03-17T07:53:46.468Z",
+    "slug": "organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a931",
+    "name": "Paid Search",
+    "lastUpdated": "2023-10-19T12:04:09.346Z",
+    "createdOn": "2023-03-17T07:53:02.889Z",
+    "slug": "paid-search"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92f",
+    "name": "Paid Ads",
+    "lastUpdated": "2024-05-17T06:22:26.047Z",
+    "createdOn": "2023-03-17T07:52:34.795Z",
+    "slug": "paid-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92e",
+    "name": "Invoca (Dialogtech)",
+    "lastUpdated": "2024-01-15T08:55:12.371Z",
+    "createdOn": "2023-03-17T05:38:37.073Z",
+    "slug": "dialogtech-invoca"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92d",
+    "name": "Sizmek DSP API",
+    "lastUpdated": "2023-10-19T12:04:13.165Z",
+    "createdOn": "2023-03-17T05:35:27.026Z",
+    "slug": "sizmek-dsp-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92c",
+    "name": "Amazon Ad Server (Sizmek SAS)",
+    "lastUpdated": "2023-10-19T12:04:14.510Z",
+    "createdOn": "2023-03-17T05:29:58.779Z",
+    "slug": "sizmek-sas"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92b",
+    "name": "Pinterest Organic",
+    "lastUpdated": "2023-10-19T12:04:10.442Z",
+    "createdOn": "2023-03-17T05:25:28.129Z",
+    "slug": "pinterest-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a92a",
+    "name": "Box",
+    "lastUpdated": "2023-10-19T12:03:59.480Z",
+    "createdOn": "2023-03-17T05:21:45.462Z",
+    "slug": "box"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a929",
+    "name": "eCommerce",
+    "lastUpdated": "2024-05-17T06:54:45.884Z",
+    "createdOn": "2023-03-17T05:11:11.552Z",
+    "slug": "ecommerce"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a928",
+    "name": "Sharepoint",
+    "lastUpdated": "2023-10-19T12:04:12.875Z",
+    "createdOn": "2023-03-09T05:29:11.999Z",
+    "slug": "sharepoint"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a927",
+    "name": "Tubular Labs",
+    "lastUpdated": "2023-10-19T12:04:14.921Z",
+    "createdOn": "2023-03-09T05:21:55.989Z",
+    "slug": "tubular-labs"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a926",
+    "name": "IQM",
+    "lastUpdated": "2023-10-19T12:04:06.153Z",
+    "createdOn": "2023-03-09T05:19:21.486Z",
+    "slug": "iqm"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a925",
+    "name": "How to set up static IPs for Google BigQuery via VPC",
+    "lastUpdated": "2023-10-19T12:04:04.954Z",
+    "createdOn": "2023-03-06T05:53:42.401Z",
+    "slug": "how-to-set-up-static-ips-for-google-bigquery-via-vpc"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a924",
+    "name": "MNTN",
+    "lastUpdated": "2023-10-29T17:41:20.434Z",
+    "createdOn": "2023-02-20T08:23:17.202Z",
+    "slug": "mountain"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a923",
+    "name": "Skai (Kenshoo UI Reports)",
+    "lastUpdated": "2024-08-01T07:35:48.669Z",
+    "createdOn": "2023-02-17T03:39:19.097Z",
+    "slug": "skai-kenshoo-ui-reports"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a922",
+    "name": "Quora Ads",
+    "lastUpdated": "2024-07-08T16:08:40.756Z",
+    "createdOn": "2023-02-17T03:34:33.164Z",
+    "slug": "quora-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a921",
+    "name": "Klaviyo",
+    "lastUpdated": "2024-04-02T10:15:07.401Z",
+    "createdOn": "2023-02-17T03:26:43.585Z",
+    "slug": "klaviyo"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a920",
+    "name": "Taboola",
+    "lastUpdated": "2023-10-19T12:04:14.394Z",
+    "createdOn": "2023-02-17T03:20:13.992Z",
+    "slug": "taboola"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a91e",
+    "name": "Skai API (Kenshoo V3 API)",
+    "lastUpdated": "2024-08-01T07:36:05.072Z",
+    "createdOn": "2023-02-17T03:15:07.922Z",
+    "slug": "skai-api-kenshoo-v3-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a91d",
+    "name": "AdFox",
+    "lastUpdated": "2023-10-19T12:03:56.344Z",
+    "createdOn": "2023-02-16T04:09:44.932Z",
+    "slug": "adfox"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a91c",
+    "name": "Ozon",
+    "lastUpdated": "2023-10-19T12:04:09.379Z",
+    "createdOn": "2023-02-16T04:06:54.716Z",
+    "slug": "ozon"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a91b",
+    "name": "SEMrush",
+    "lastUpdated": "2023-10-19T12:04:12.630Z",
+    "createdOn": "2023-02-16T04:04:42.754Z",
+    "slug": "semrush"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a91a",
+    "name": "Adriver",
+    "lastUpdated": "2023-10-19T12:03:56.549Z",
+    "createdOn": "2023-02-16T03:58:52.391Z",
+    "slug": "adriver"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a919",
+    "name": "Yahoo DSP",
+    "lastUpdated": "2024-05-24T10:09:08.675Z",
+    "createdOn": "2023-02-16T03:36:05.040Z",
+    "slug": "yahoo-dsp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a918",
+    "name": "Yahoo Gemini",
+    "lastUpdated": "2024-05-08T07:37:36.569Z",
+    "createdOn": "2023-02-15T03:53:07.707Z",
+    "slug": "yahoo-gemini"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a917",
+    "name": "MailChimp",
+    "lastUpdated": "2023-11-11T11:43:56.773Z",
+    "createdOn": "2023-02-15T03:49:57.951Z",
+    "slug": "mailchimp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a916",
+    "name": "StackAdapt",
+    "lastUpdated": "2023-10-19T12:04:14.050Z",
+    "createdOn": "2023-02-15T03:45:42.746Z",
+    "slug": "stackadapt"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a915",
+    "name": "Adjust API",
+    "lastUpdated": "2024-07-05T08:29:14.906Z",
+    "createdOn": "2023-02-15T03:41:47.005Z",
+    "slug": "adjust-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a914",
+    "name": "Marketo",
+    "lastUpdated": "2023-10-19T12:04:07.131Z",
+    "createdOn": "2023-02-14T11:50:00.275Z",
+    "slug": "marketo"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a913",
+    "name": "The Trade Desk API",
+    "lastUpdated": "2023-10-19T12:04:14.508Z",
+    "createdOn": "2023-02-03T05:52:23.858Z",
+    "slug": "the-trade-desk-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a912",
+    "name": "Dotdigital",
+    "lastUpdated": "2023-10-19T12:04:00.507Z",
+    "createdOn": "2023-02-03T03:19:17.134Z",
+    "slug": "dot-digital"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a911",
+    "name": "Microsoft Dynamics 365",
+    "lastUpdated": "2024-05-14T12:10:46.283Z",
+    "createdOn": "2023-02-02T08:02:00.123Z",
+    "slug": "microsoft-dynamics-365"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a910",
+    "name": "AppsFlyer",
+    "lastUpdated": "2023-10-19T12:03:58.060Z",
+    "createdOn": "2023-02-02T07:55:40.938Z",
+    "slug": "appsflyer"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90f",
+    "name": "Salesforce",
+    "lastUpdated": "2023-10-19T12:04:12.369Z",
+    "createdOn": "2023-02-02T07:49:22.933Z",
+    "slug": "salesforce"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90e",
+    "name": "Adform",
+    "lastUpdated": "2023-10-19T12:03:56.231Z",
+    "createdOn": "2023-02-02T07:44:00.906Z",
+    "slug": "adform"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90d",
+    "name": "AdRoll",
+    "lastUpdated": "2023-10-19T12:03:56.550Z",
+    "createdOn": "2023-02-02T07:39:22.318Z",
+    "slug": "adroll"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90c",
+    "name": "Sticky.io",
+    "lastUpdated": "2023-10-19T12:04:14.052Z",
+    "createdOn": "2023-02-02T07:28:31.764Z",
+    "slug": "sticky-io"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90b",
+    "name": "Remerge",
+    "lastUpdated": "2023-10-29T17:37:12.936Z",
+    "createdOn": "2023-01-27T06:52:26.585Z",
+    "slug": "remerge"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a90a",
+    "name": "illumin",
+    "lastUpdated": "2023-10-19T12:04:05.383Z",
+    "createdOn": "2023-01-26T03:26:47.039Z",
+    "slug": "illumin"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a909",
+    "name": "Failing to Connect Client GBQ as Destination - Troubleshooting Guide",
+    "lastUpdated": "2023-10-19T12:04:19.875Z",
+    "createdOn": "2023-01-17T10:11:17.036Z",
+    "slug": "failing-to-connect-client-gbq-as-destination-troubleshooting-guide"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a908",
+    "name": "How to customize mapping in MCDM",
+    "lastUpdated": "2024-04-19T08:05:40.425Z",
+    "createdOn": "2022-12-27T09:57:48.626Z",
+    "slug": "how-to-customize-mapping-in-mcdm"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a907",
+    "name": "MCDM Dictionary - Paid Search",
+    "lastUpdated": "2023-10-19T12:04:22.495Z",
+    "createdOn": "2022-12-22T10:45:26.546Z",
+    "slug": "mcdm-dictionary-paid-search"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a8f7",
+    "name": "MCDM Dictionary - Mobile Analytics",
+    "lastUpdated": "2023-10-19T12:04:22.322Z",
+    "createdOn": "2022-12-22T10:42:57.324Z",
+    "slug": "mcdm-dictionary-mobile-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a8f5",
+    "name": "MCDM Dictionary - Organic",
+    "lastUpdated": "2023-10-19T12:04:22.367Z",
+    "createdOn": "2022-12-22T10:40:15.532Z",
+    "slug": "mcdm-dictionary-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a8f4",
+    "name": "MCDM Dictionary - Paid Ads",
+    "lastUpdated": "2023-10-19T12:04:22.396Z",
+    "createdOn": "2022-12-22T08:37:59.649Z",
+    "slug": "mcdm-dictionary-paid-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a8f3",
+    "name": "Yext",
+    "lastUpdated": "2023-10-19T12:04:17.362Z",
+    "createdOn": "2022-12-19T08:35:27.398Z",
+    "slug": "yext"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d8",
+    "name": "Snapchat Organic",
+    "lastUpdated": "2023-10-19T12:04:13.763Z",
+    "createdOn": "2022-12-07T08:56:43.189Z",
+    "slug": "snapchat-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d7",
+    "name": "Tableau",
+    "lastUpdated": "2023-10-19T12:04:03.822Z",
+    "createdOn": "2022-12-07T08:34:07.861Z",
+    "slug": "how-to-connect-tableau-to-improvado"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d6",
+    "name": "Teads API",
+    "lastUpdated": "2023-10-19T12:04:14.420Z",
+    "createdOn": "2022-12-07T08:23:29.334Z",
+    "slug": "teads-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d5",
+    "name": "Criteo",
+    "lastUpdated": "2023-10-19T12:04:00.099Z",
+    "createdOn": "2022-12-07T06:44:44.886Z",
+    "slug": "criteo"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d4",
+    "name": "Apple Search Ads",
+    "lastUpdated": "2023-10-19T12:03:57.975Z",
+    "createdOn": "2022-12-07T06:11:19.746Z",
+    "slug": "apple-search"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d3",
+    "name": "Everflow Affiliate API",
+    "lastUpdated": "2023-10-19T12:04:00.928Z",
+    "createdOn": "2022-12-01T09:50:36.033Z",
+    "slug": "everflow-affiliate-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d2",
+    "name": "data.ai Intelligence",
+    "lastUpdated": "2023-10-19T12:04:00.153Z",
+    "createdOn": "2022-11-30T08:47:43.251Z",
+    "slug": "data-ai-intelligence"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d1",
+    "name": "Meltwater",
+    "lastUpdated": "2023-10-19T12:04:07.586Z",
+    "createdOn": "2022-11-30T08:42:17.732Z",
+    "slug": "meltwater"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5d0",
+    "name": "How to Bulk Edit Extraction Orders Settings",
+    "lastUpdated": "2024-07-05T11:07:57.792Z",
+    "createdOn": "2022-11-28T13:29:26.284Z",
+    "slug": "how-to-bulk-edit-extraction-orders-settings"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5cf",
+    "name": "Google Campaign Manager",
+    "lastUpdated": "2023-10-19T12:04:02.643Z",
+    "createdOn": "2022-10-28T05:58:51.236Z",
+    "slug": "google-campaign-manager"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a5ce",
+    "name": "Google Business Profile (Google My Business)",
+    "lastUpdated": "2023-10-19T12:04:02.525Z",
+    "createdOn": "2022-10-24T08:50:33.367Z",
+    "slug": "google-business-profile"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57f",
+    "name": "Google Ad Manager",
+    "lastUpdated": "2023-10-19T12:04:02.149Z",
+    "createdOn": "2022-10-24T08:46:16.809Z",
+    "slug": "google-ad-manager"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57e",
+    "name": "Google Search Ads 360 (sunset on July 1st, 2024)",
+    "lastUpdated": "2024-07-01T12:11:46.003Z",
+    "createdOn": "2022-10-24T08:42:36.052Z",
+    "slug": "google-search-ads-360-1"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57d",
+    "name": "Youtube Organic",
+    "lastUpdated": "2024-04-12T07:52:03.057Z",
+    "createdOn": "2022-10-19T09:05:43.471Z",
+    "slug": "youtube-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57c",
+    "name": "Twitter",
+    "lastUpdated": "2023-12-29T05:35:05.523Z",
+    "createdOn": "2022-10-19T08:59:32.799Z",
+    "slug": "twitter"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57b",
+    "name": "TikTok Ads",
+    "lastUpdated": "2023-12-01T03:22:23.611Z",
+    "createdOn": "2022-10-19T08:54:56.796Z",
+    "slug": "tiktok-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a57a",
+    "name": "Snapchat Ads",
+    "lastUpdated": "2023-10-19T12:04:13.491Z",
+    "createdOn": "2022-10-19T08:50:00.934Z",
+    "slug": "snapchat-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a579",
+    "name": "Shopify",
+    "lastUpdated": "2023-10-19T12:04:13.011Z",
+    "createdOn": "2022-10-19T08:45:54.598Z",
+    "slug": "shopify"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a578",
+    "name": "Pinterest Ads",
+    "lastUpdated": "2024-05-22T05:16:00.388Z",
+    "createdOn": "2022-10-19T08:12:08.281Z",
+    "slug": "pinterest-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a577",
+    "name": "LinkedIn Organic",
+    "lastUpdated": "2024-08-14T05:27:55.847Z",
+    "createdOn": "2022-10-19T08:04:47.836Z",
+    "slug": "linkedin-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a576",
+    "name": "LinkedIn Ads",
+    "lastUpdated": "2023-10-19T12:04:06.582Z",
+    "createdOn": "2022-10-19T08:00:31.635Z",
+    "slug": "linkedin-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a575",
+    "name": "Instagram Stories and Mentions",
+    "lastUpdated": "2024-07-08T16:16:16.163Z",
+    "createdOn": "2022-10-19T07:23:31.356Z",
+    "slug": "instagram-stories-and-mentions"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a574",
+    "name": "Instagram Organic",
+    "lastUpdated": "2024-06-27T05:44:07.391Z",
+    "createdOn": "2022-10-19T07:17:27.796Z",
+    "slug": "instagram-organic"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a573",
+    "name": "Facebook Ads",
+    "lastUpdated": "2024-01-15T08:54:35.146Z",
+    "createdOn": "2022-10-19T07:02:15.895Z",
+    "slug": "facebook-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a572",
+    "name": "Facebook Pages",
+    "lastUpdated": "2023-10-19T12:04:01.424Z",
+    "createdOn": "2022-10-19T06:58:26.488Z",
+    "slug": "facebook-pages"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a571",
+    "name": "Bing Ads (Microsoft Advertising)",
+    "lastUpdated": "2023-10-19T12:03:59.784Z",
+    "createdOn": "2022-10-19T06:45:22.083Z",
+    "slug": "bing-ads-microsoft-advertising"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56f",
+    "name": "Amazon Advertising",
+    "lastUpdated": "2023-10-19T12:03:57.440Z",
+    "createdOn": "2022-10-19T06:31:30.391Z",
+    "slug": "amazon-advertising"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56e",
+    "name": "Video test",
+    "lastUpdated": "2023-11-30T01:07:50.008Z",
+    "createdOn": "2022-09-27T05:47:08.971Z",
+    "slug": "video-test"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56d",
+    "name": "Google Universal Analytics",
+    "lastUpdated": "2024-07-01T12:37:59.242Z",
+    "createdOn": "2022-09-26T17:15:13.394Z",
+    "slug": "google-universal-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56c",
+    "name": "Google Display & Video 360",
+    "lastUpdated": "2024-04-05T10:58:31.242Z",
+    "createdOn": "2022-09-26T04:29:27.838Z",
+    "slug": "google-display-video-360"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56b",
+    "name": "Google Search Console",
+    "lastUpdated": "2023-10-19T12:04:02.997Z",
+    "createdOn": "2022-09-26T03:52:49.274Z",
+    "slug": "google-search-console"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a56a",
+    "name": "NetBase",
+    "lastUpdated": "2023-10-19T12:04:08.069Z",
+    "createdOn": "2022-09-20T06:48:14.909Z",
+    "slug": "netbase"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a569",
+    "name": "Google Ads",
+    "lastUpdated": "2023-10-20T04:59:44.864Z",
+    "createdOn": "2022-09-14T03:29:43.345Z",
+    "slug": "google-ads"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a568",
+    "name": "SFTP",
+    "lastUpdated": "2024-05-02T11:46:37.781Z",
+    "createdOn": "2022-09-13T21:05:36.671Z",
+    "slug": "sftp"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a567",
+    "name": "Test imgs",
+    "lastUpdated": "2023-10-19T12:04:23.773Z",
+    "createdOn": "2022-08-15T12:52:41.220Z",
+    "slug": "test-imgs"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a566",
+    "name": "testing",
+    "lastUpdated": "2023-10-19T12:04:23.813Z",
+    "createdOn": "2022-08-15T12:45:59.181Z",
+    "slug": "testing"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a565",
+    "name": "New API connector request",
+    "lastUpdated": "2024-02-19T09:49:11.886Z",
+    "createdOn": "2022-08-11T06:41:37.228Z",
+    "slug": "new-api-connector-request"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a564",
+    "name": "HubSpot",
+    "lastUpdated": "2024-06-25T12:35:29.808Z",
+    "createdOn": "2022-08-10T12:30:28.651Z",
+    "slug": "hubspot"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a563",
+    "name": "How to Backfill Historical Data for Existing Extraction Orders",
+    "lastUpdated": "2024-07-05T11:08:22.597Z",
+    "createdOn": "2022-08-03T13:07:56.224Z",
+    "slug": "how-to-backfill-historical-data-for-existing-extraction-orders"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a562",
+    "name": "Marketing Cloud Account Engagement (Pardot API)",
+    "lastUpdated": "2023-10-27T01:43:33.476Z",
+    "createdOn": "2022-05-30T11:26:20.892Z",
+    "slug": "pardot-api"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a561",
+    "name": "How to Change Your Password",
+    "lastUpdated": "2023-10-19T12:04:03.882Z",
+    "createdOn": "2022-03-11T08:41:25.627Z",
+    "slug": "how-to-change-your-password"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a560",
+    "name": "Login Throttling",
+    "lastUpdated": "2024-03-04T20:52:39.425Z",
+    "createdOn": "2022-03-03T13:04:17.456Z",
+    "slug": "login-throttling"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a55e",
+    "name": "Facebook - Attribution window settings",
+    "lastUpdated": "2023-10-19T12:04:00.948Z",
+    "createdOn": "2022-02-10T12:33:35.969Z",
+    "slug": "facebook-attribution-window-settings"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a55d",
+    "name": "How to Submit a Feedback",
+    "lastUpdated": "2023-10-19T12:04:04.974Z",
+    "createdOn": "2022-02-07T11:11:53.797Z",
+    "slug": "how-to-submit-a-feedback"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a55c",
+    "name": "Request Type categories",
+    "lastUpdated": "2023-11-27T11:49:40.969Z",
+    "createdOn": "2022-02-07T10:10:40.806Z",
+    "slug": "request-type-categories"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a55b",
+    "name": "How to manage your requests ",
+    "lastUpdated": "2023-11-28T11:34:20.888Z",
+    "createdOn": "2022-02-07T09:21:15.831Z",
+    "slug": "how-to-manage-your-requests"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a55a",
+    "name": "Request page Look & Feel",
+    "lastUpdated": "2023-10-19T12:04:11.966Z",
+    "createdOn": "2022-02-07T09:11:35.886Z",
+    "slug": "request-page-look-feel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a559",
+    "name": "How to Create a New Request",
+    "lastUpdated": "2023-10-19T12:04:03.883Z",
+    "createdOn": "2022-02-07T09:02:58.978Z",
+    "slug": "how-to-create-a-new-request"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a558",
+    "name": "Google DataSources",
+    "lastUpdated": "2023-10-19T12:04:02.788Z",
+    "createdOn": "2022-01-28T06:09:22.825Z",
+    "slug": "google-data-sources"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a557",
+    "name": "Databricks Destination",
+    "lastUpdated": "2024-06-27T09:53:07.163Z",
+    "createdOn": "2022-01-28T05:15:04.788Z",
+    "slug": "databricks"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a556",
+    "name": "Whitelabel",
+    "lastUpdated": "2024-08-21T09:19:55.343Z",
+    "createdOn": "2022-01-20T12:02:18.415Z",
+    "slug": "whitelabel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a555",
+    "name": "Tableau-2",
+    "lastUpdated": "2023-10-19T12:04:23.599Z",
+    "createdOn": "2022-01-18T11:11:35.787Z",
+    "slug": "tableau-2"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a554",
+    "name": "Power BI-2",
+    "lastUpdated": "2023-10-19T12:04:23.131Z",
+    "createdOn": "2022-01-18T11:10:25.047Z",
+    "slug": "power-bi-2"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a553",
+    "name": "Looker-2",
+    "lastUpdated": "2023-10-19T12:04:22.039Z",
+    "createdOn": "2022-01-18T10:38:10.927Z",
+    "slug": "looker-2"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a552",
+    "name": "Sharing specific report with view access",
+    "lastUpdated": "2023-10-19T12:04:12.943Z",
+    "createdOn": "2021-12-28T07:44:55.595Z",
+    "slug": "sharing-specific-report-with-view-access"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a551",
+    "name": "How to Reopen the Ticket",
+    "lastUpdated": "2023-10-19T12:04:04.822Z",
+    "createdOn": "2021-12-24T07:23:08.402Z",
+    "slug": "how-to-reopen-the-ticket"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a550",
+    "name": "How to Generate an Azure SAS Token",
+    "lastUpdated": "2023-10-19T12:04:04.244Z",
+    "createdOn": "2021-12-23T10:11:31.228Z",
+    "slug": "how-to-generate-an-azure-sas-token"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a54f",
+    "name": "How to Load Data from Google Sheets to GBQ",
+    "lastUpdated": "2023-10-19T12:04:04.524Z",
+    "createdOn": "2021-12-15T10:03:19.309Z",
+    "slug": "how-to-load-data-from-google-sheets-to-gbq"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a54d",
+    "name": "User Invitation Flow",
+    "lastUpdated": "2023-10-19T12:04:23.889Z",
+    "createdOn": "2021-11-16T11:23:08.295Z",
+    "slug": "user-invitation-flow"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a54c",
+    "name": "How to manage your team's members and reports",
+    "lastUpdated": "2024-03-27T11:26:41.813Z",
+    "createdOn": "2021-11-16T09:40:20.612Z",
+    "slug": "where-to-find-your-team-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a54b",
+    "name": "How to invite users to a workspace from Your Team page",
+    "lastUpdated": "2023-12-07T06:44:16.952Z",
+    "createdOn": "2021-11-16T08:39:39.005Z",
+    "slug": "how-to-invite-a-new-team-member"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a54a",
+    "name": "Where to Find Your Data Table Configuration  ",
+    "lastUpdated": "2024-02-07T16:53:43.381Z",
+    "createdOn": "2021-11-16T08:33:30.499Z",
+    "slug": "where-to-find-your-data-table-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a549",
+    "name": "Where to Find Your Extraction Orders",
+    "lastUpdated": "2024-02-02T02:53:11.616Z",
+    "createdOn": "2021-11-16T08:19:19.174Z",
+    "slug": "where-to-find-your-extraction-orders"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a548",
+    "name": "Where to Find Your Extraction Orders Configuration",
+    "lastUpdated": "2024-07-05T11:08:57.459Z",
+    "createdOn": "2021-11-16T07:57:14.141Z",
+    "slug": "where-to-find-your-extraction-orders-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a547",
+    "name": "How to Edit a Custom Extraction Template",
+    "lastUpdated": "2024-05-08T08:21:59.005Z",
+    "createdOn": "2021-11-08T10:06:34.354Z",
+    "slug": "how-to-edit-a-custom-extraction-template"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a546",
+    "name": "Where to Find Your Extraction Templates",
+    "lastUpdated": "2024-05-08T08:22:47.487Z",
+    "createdOn": "2021-11-08T10:03:12.618Z",
+    "slug": "where-to-find-your-extraction-templates"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a545",
+    "name": "How to Create a Custom Extraction Template",
+    "lastUpdated": "2024-05-08T08:23:01.616Z",
+    "createdOn": "2021-11-08T09:55:11.697Z",
+    "slug": "how-to-create-a-custom-extraction-template"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a544",
+    "name": "How to Set Up Data Extraction",
+    "lastUpdated": "2023-10-19T12:04:20.970Z",
+    "createdOn": "2021-11-02T08:57:59.350Z",
+    "slug": "how-to-set-up-data-extraction"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a543",
+    "name": "Where to Find Your Data Tables ",
+    "lastUpdated": "2023-11-15T07:16:29.732Z",
+    "createdOn": "2021-11-02T06:44:46.408Z",
+    "slug": "where-to-find-your-data-tables"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a542",
+    "name": "Where to Find Your Connected Source Configuration",
+    "lastUpdated": "2023-12-04T02:47:54.385Z",
+    "createdOn": "2021-11-01T11:26:15.479Z",
+    "slug": "where-to-find-your-connected-source-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a541",
+    "name": "Where to Find Your Connected Sources",
+    "lastUpdated": "2023-12-04T02:35:49.746Z",
+    "createdOn": "2021-10-29T09:14:11.756Z",
+    "slug": "where-to-find-your-connected-sources"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a540",
+    "name": "Where to Find Your Load Orders",
+    "lastUpdated": "2023-10-19T12:04:16.476Z",
+    "createdOn": "2021-10-20T06:02:57.069Z",
+    "slug": "where-to-find-your-load-orders"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a53f",
+    "name": "Where to Find Your Connected Destination Configuration",
+    "lastUpdated": "2024-06-27T07:45:35.565Z",
+    "createdOn": "2021-10-19T05:52:33.881Z",
+    "slug": "where-to-find-your-connected-destination-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a53e",
+    "name": "Where to Find Your Load Order Configuration",
+    "lastUpdated": "2024-07-12T08:31:46.757Z",
+    "createdOn": "2021-10-19T04:57:45.483Z",
+    "slug": "where-to-find-load-order-configuration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0a53d",
+    "name": "How to Set Up Data Load",
+    "lastUpdated": "2023-10-19T12:04:20.929Z",
+    "createdOn": "2021-10-19T04:03:31.416Z",
+    "slug": "how-to-set-up-data-load"
+  },
+  {
+    "id": "66c82ff38455c55e48e09894",
+    "name": "ClickHouse",
+    "lastUpdated": "2024-04-25T05:44:36.470Z",
+    "createdOn": "2021-09-10T04:27:46.394Z",
+    "slug": "clickhouse"
+  },
+  {
+    "id": "66c82ff38455c55e48e09893",
+    "name": "Azure Blob Storage",
+    "lastUpdated": "2024-04-26T11:18:24.792Z",
+    "createdOn": "2021-09-10T04:11:14.694Z",
+    "slug": "azure-blob-storage"
+  },
+  {
+    "id": "66c82ff38455c55e48e09892",
+    "name": "Google BigQuery managed by Improvado",
+    "lastUpdated": "2024-03-19T06:14:35.903Z",
+    "createdOn": "2021-08-30T15:59:27.977Z",
+    "slug": "gbq-managed-by-improvado"
+  },
+  {
+    "id": "66c82ff38455c55e48e09891",
+    "name": "FTP",
+    "lastUpdated": "2024-05-02T11:49:22.902Z",
+    "createdOn": "2021-08-27T09:05:07.625Z",
+    "slug": "ftp"
+  },
+  {
+    "id": "66c82ff38455c55e48e09890",
+    "name": "MySQL",
+    "lastUpdated": "2024-04-12T10:47:32.769Z",
+    "createdOn": "2021-08-27T08:59:28.098Z",
+    "slug": "mysql"
+  },
+  {
+    "id": "66c82ff38455c55e48e0988f",
+    "name": "Snowflake Destination",
+    "lastUpdated": "2024-06-27T06:22:28.098Z",
+    "createdOn": "2021-08-27T08:45:49.816Z",
+    "slug": "snowflake"
+  },
+  {
+    "id": "66c82ff38455c55e48e0988e",
+    "name": "Azure SQL",
+    "lastUpdated": "2024-04-23T03:46:10.726Z",
+    "createdOn": "2021-08-27T08:39:45.212Z",
+    "slug": "azure-sql"
+  },
+  {
+    "id": "66c82ff38455c55e48e0988d",
+    "name": "Microsoft SQL Server",
+    "lastUpdated": "2024-04-23T03:52:24.544Z",
+    "createdOn": "2021-08-27T08:26:49.396Z",
+    "slug": "microsoft-sql-server"
+  },
+  {
+    "id": "66c82ff38455c55e48e0988c",
+    "name": "Google Cloud Storage",
+    "lastUpdated": "2024-04-17T11:38:51.934Z",
+    "createdOn": "2021-08-27T08:17:25.289Z",
+    "slug": "google-cloud-storage"
+  },
+  {
+    "id": "66c82ff38455c55e48e0988b",
+    "name": "Redshift",
+    "lastUpdated": "2024-06-24T19:37:08.748Z",
+    "createdOn": "2021-08-27T08:05:54.370Z",
+    "slug": "redshift"
+  },
+  {
+    "id": "66c82ff38455c55e48e09889",
+    "name": "AWS S3 Destination",
+    "lastUpdated": "2024-08-18T15:49:38.026Z",
+    "createdOn": "2021-08-27T08:00:13.868Z",
+    "slug": "aws-s3"
+  },
+  {
+    "id": "66c82ff38455c55e48e09888",
+    "name": "Heroku PostgreSQL",
+    "lastUpdated": "2024-04-25T05:23:39.225Z",
+    "createdOn": "2021-08-27T06:57:16.094Z",
+    "slug": "heroku"
+  },
+  {
+    "id": "66c82ff38455c55e48e09887",
+    "name": "SAP HANA",
+    "lastUpdated": "2024-04-29T11:40:06.843Z",
+    "createdOn": "2021-08-27T06:22:25.199Z",
+    "slug": "sap-hana"
+  },
+  {
+    "id": "66c82ff38455c55e48e09886",
+    "name": "Where to Find Your Connected Destinations",
+    "lastUpdated": "2023-10-19T12:04:00.279Z",
+    "createdOn": "2021-08-25T14:19:05.412Z",
+    "slug": "destinations-feature"
+  },
+  {
+    "id": "66c82ff38455c55e48e09885",
+    "name": "How to Add a Destination",
+    "lastUpdated": "2023-10-19T12:04:20.663Z",
+    "createdOn": "2021-08-25T13:14:11.994Z",
+    "slug": "how-to-add-a-destination"
+  },
+  {
+    "id": "66c82ff38455c55e48e093cb",
+    "name": "Usage Dashboard: How to Visualize & Optimize Your Data Pipelines and Volumes",
+    "lastUpdated": "2023-10-19T12:04:20.958Z",
+    "createdOn": "2021-07-29T11:29:36.142Z",
+    "slug": "how-to-see-your-usage-stats"
+  },
+  {
+    "id": "66c82ff38455c55e48e093ca",
+    "name": "Criteo deprecated the previously functional MAPI service",
+    "lastUpdated": "2023-10-19T12:04:18.905Z",
+    "createdOn": "2021-06-01T18:57:48.718Z",
+    "slug": "criteo-deprecated-the-previously-functional-mapi-service-may-24th-2021"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c9",
+    "name": "Flat Data Ingestion: Google Spreadsheet Data Ingestion",
+    "lastUpdated": "2023-10-19T12:04:01.694Z",
+    "createdOn": "2021-05-26T07:16:56.371Z",
+    "slug": "flat-data-ingestion-google-spreadsheet-data-ingestion"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c8",
+    "name": "Flat Data Ingestion: Amazon S3 Data Ingestion",
+    "lastUpdated": "2023-10-19T12:04:19.941Z",
+    "createdOn": "2021-05-25T05:50:55.348Z",
+    "slug": "flat-data-ingestion-amazon-s3-data-ingestion"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c7",
+    "name": "Flat Data Ingestion: FTP/SFTP Data Ingestion",
+    "lastUpdated": "2023-10-19T12:04:20.143Z",
+    "createdOn": "2021-05-25T05:40:31.884Z",
+    "slug": "flat-data-ingestion-ftp-sftp-data-ingestion"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c6",
+    "name": "Flat Data Ingestion: Email Integration",
+    "lastUpdated": "2023-10-19T12:04:01.565Z",
+    "createdOn": "2021-05-25T05:35:34.291Z",
+    "slug": "flat-data-ingestion-email-integration"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c5",
+    "name": "Flat Data Ingestion: File Requirements",
+    "lastUpdated": "2023-10-19T12:04:01.697Z",
+    "createdOn": "2021-05-25T05:24:24.350Z",
+    "slug": "flat-data-ingestion-file-requirements"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c4",
+    "name": "Facebook updated the attribution window settings",
+    "lastUpdated": "2023-10-19T12:04:00.886Z",
+    "createdOn": "2021-05-13T19:53:09.111Z",
+    "slug": "facebook-api-changes-attribution-window-april-27th-2021"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c3",
+    "name": "Knowledge Graph Data Normalization (Age, Gender)",
+    "lastUpdated": "2023-10-19T12:04:21.601Z",
+    "createdOn": "2021-04-09T08:24:31.180Z",
+    "slug": "knowledge-graph-data-normalization-age-gender"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c2",
+    "name": "Marketing Knowledge Graph Two-Process Analysis",
+    "lastUpdated": "2023-10-19T12:04:22.290Z",
+    "createdOn": "2021-03-17T09:35:52.387Z",
+    "slug": "marketing-knowledge-graph-two-process-analysis"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c1",
+    "name": "Marketing Knowledge Graph GA Usecases",
+    "lastUpdated": "2023-10-19T12:04:22.284Z",
+    "createdOn": "2021-03-06T12:04:51.018Z",
+    "slug": "marketing-knowledge-graph-ga-usecases"
+  },
+  {
+    "id": "66c82ff38455c55e48e093c0",
+    "name": "Knowledge Graph User Interface and Components",
+    "lastUpdated": "2023-10-19T12:04:22.040Z",
+    "createdOn": "2021-03-06T11:29:01.041Z",
+    "slug": "knowledge-graph-user-interface-and-components"
+  },
+  {
+    "id": "66c82ff38455c55e48e093bf",
+    "name": "Knowledge Graph Basic Use Case Examples",
+    "lastUpdated": "2023-10-19T12:04:21.813Z",
+    "createdOn": "2021-03-06T11:26:03.422Z",
+    "slug": "knowledge-graph-basic-use-case-examples"
+  },
+  {
+    "id": "66c82ff38455c55e48e093bd",
+    "name": "Knowledge Graph Handbook",
+    "lastUpdated": "2023-10-19T12:04:21.978Z",
+    "createdOn": "2021-03-03T03:57:35.464Z",
+    "slug": "knowledge-graph-handbook"
+  },
+  {
+    "id": "66c82ff38455c55e48e093bc",
+    "name": "Widget 2.0: Global Filter",
+    "lastUpdated": "2024-04-26T09:32:04.552Z",
+    "createdOn": "2020-07-16T07:38:10.601Z",
+    "slug": "widget-2-0-global-filter"
+  },
+  {
+    "id": "66c82ff38455c55e48e093bb",
+    "name": "Widget 2.0: Using Drilldowns",
+    "lastUpdated": "2024-04-26T09:32:27.731Z",
+    "createdOn": "2020-07-16T07:18:35.619Z",
+    "slug": "widget-2-0-using-drilldowns"
+  },
+  {
+    "id": "66c82ff38455c55e48e093ba",
+    "name": "Widget 2.0: Extended Visualization Options",
+    "lastUpdated": "2024-04-26T09:32:52.757Z",
+    "createdOn": "2020-07-16T07:00:43.936Z",
+    "slug": "widget-2-0-extended-visualization-options"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b9",
+    "name": "Setup Data Extraction (Beta)",
+    "lastUpdated": "2023-10-19T12:04:23.292Z",
+    "createdOn": "2020-06-06T12:56:03.508Z",
+    "slug": "setup-data-extraction-beta"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b8",
+    "name": "Data Explorer Page (Beta)",
+    "lastUpdated": "2023-10-19T12:04:19.321Z",
+    "createdOn": "2020-06-06T12:35:18.199Z",
+    "slug": "data-explorer-page-beta"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b7",
+    "name": "Create a data snapshot",
+    "lastUpdated": "2023-10-19T12:04:18.548Z",
+    "createdOn": "2020-05-14T06:58:19.793Z",
+    "slug": "create-a-data-snapshot"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b6",
+    "name": "Salesforce Marketing Cloud",
+    "lastUpdated": "2023-10-19T12:04:12.323Z",
+    "createdOn": "2020-04-25T09:11:07.694Z",
+    "slug": "salesforce-marketing-cloud"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b5",
+    "name": "Deleting a rule",
+    "lastUpdated": "2023-10-19T12:04:19.270Z",
+    "createdOn": "2020-04-22T16:19:56.576Z",
+    "slug": "deleting-a-rule"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b4",
+    "name": "Editing a rule",
+    "lastUpdated": "2023-10-19T12:04:19.575Z",
+    "createdOn": "2020-04-22T16:16:47.743Z",
+    "slug": "editing-a-rule"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b3",
+    "name": "Create a rule by Inserting into a rule list",
+    "lastUpdated": "2023-10-19T12:04:18.906Z",
+    "createdOn": "2020-04-22T16:06:57.057Z",
+    "slug": "create-a-rule-by-inserting-into-a-rule-list"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b2",
+    "name": "Create a rule using the command input panel",
+    "lastUpdated": "2023-10-19T12:04:18.905Z",
+    "createdOn": "2020-04-22T16:05:18.955Z",
+    "slug": "create-a-rule-using-the-command-input-panel"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b1",
+    "name": "Create a rule using the column header menu",
+    "lastUpdated": "2023-10-19T12:04:18.955Z",
+    "createdOn": "2020-04-22T16:03:49.117Z",
+    "slug": "create-a-rule-using-the-column-header-menu"
+  },
+  {
+    "id": "66c82ff38455c55e48e093b0",
+    "name": "Undo and Redo commands",
+    "lastUpdated": "2023-10-19T12:04:24.006Z",
+    "createdOn": "2020-04-21T15:59:48.430Z",
+    "slug": "undo-and-redo-commands"
+  },
+  {
+    "id": "66c82ff38455c55e48e093af",
+    "name": "Add dataset for a new Transformation",
+    "lastUpdated": "2023-10-19T12:04:17.960Z",
+    "createdOn": "2020-04-21T15:47:20.498Z",
+    "slug": "add-dataset-for-a-new-transformation"
+  },
+  {
+    "id": "66c82ff38455c55e48e093ae",
+    "name": "(Old) Setup Report Time Range",
+    "lastUpdated": "2023-10-19T12:04:23.416Z",
+    "createdOn": "2020-04-17T17:14:41.652Z",
+    "slug": "setup-report-time-range"
+  },
+  {
+    "id": "66c82ff38455c55e48e093ac",
+    "name": "Client\u2019s SQL Access API for Reporting",
+    "lastUpdated": "2023-10-19T12:04:18.356Z",
+    "createdOn": "2020-04-08T14:34:02.973Z",
+    "slug": "clients-sql-access-api-for-reporting"
+  },
+  {
+    "id": "66c82ff38455c55e48e093ab",
+    "name": "User's Guide to get a report in Google Doc",
+    "lastUpdated": "2023-10-19T12:04:23.913Z",
+    "createdOn": "2020-04-08T14:09:15.516Z",
+    "slug": "users-guide-to-get-a-report-in-google-doc"
+  },
+  {
+    "id": "66c82ff38455c55e48e093aa",
+    "name": "Google Big Query",
+    "lastUpdated": "2023-11-28T11:46:08.482Z",
+    "createdOn": "2020-04-06T15:00:38.697Z",
+    "slug": "google-big-query"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a9",
+    "name": "PostgreSQL",
+    "lastUpdated": "2024-04-22T07:31:56.450Z",
+    "createdOn": "2020-04-06T12:01:49.297Z",
+    "slug": "postgresql"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a8",
+    "name": "Report",
+    "lastUpdated": "2023-10-19T12:04:11.574Z",
+    "createdOn": "2020-04-06T11:59:46.756Z",
+    "slug": "report"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a7",
+    "name": "Facebook: Two Factor Authentication Required",
+    "lastUpdated": "2023-10-19T12:04:19.853Z",
+    "createdOn": "2020-04-06T11:57:23.789Z",
+    "slug": "facebook-two-factor-authentication-required"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a6",
+    "name": "Adobe Analytics",
+    "lastUpdated": "2023-10-19T12:03:56.298Z",
+    "createdOn": "2020-04-06T11:55:23.150Z",
+    "slug": "adobe-analytics"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a5",
+    "name": "Report tabs",
+    "lastUpdated": "2023-10-19T12:04:11.940Z",
+    "createdOn": "2020-04-06T11:52:28.254Z",
+    "slug": "report-tabs"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a4",
+    "name": "Report settings",
+    "lastUpdated": "2024-05-03T11:32:29.828Z",
+    "createdOn": "2020-04-06T11:51:31.589Z",
+    "slug": "report-settings"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a3",
+    "name": "Enhanced Import Sequence",
+    "lastUpdated": "2023-10-19T12:04:19.657Z",
+    "createdOn": "2020-04-06T11:45:39.970Z",
+    "slug": "enhanced-import-sequence"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a2",
+    "name": "Use CSV as a data source",
+    "lastUpdated": "2024-05-03T10:10:56.419Z",
+    "createdOn": "2020-04-06T10:19:58.399Z",
+    "slug": "use-csv-as-a-data-source"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a1",
+    "name": "Add data source in the report",
+    "lastUpdated": "2024-05-06T09:01:59.015Z",
+    "createdOn": "2020-04-06T10:17:36.271Z",
+    "slug": "add-data-source-in-the-report"
+  },
+  {
+    "id": "66c82ff38455c55e48e093a0",
+    "name": "Update added data sets",
+    "lastUpdated": "2024-05-03T11:22:24.646Z",
+    "createdOn": "2020-04-06T10:15:45.352Z",
+    "slug": "update-added-data-sets"
+  },
+  {
+    "id": "66c82ff38455c55e48e0939f",
+    "name": "Edit data sets",
+    "lastUpdated": "2024-05-03T12:07:30.054Z",
+    "createdOn": "2020-04-06T10:13:28.375Z",
+    "slug": "edit-data-sets"
+  },
+  {
+    "id": "66c82ff38455c55e48e0939e",
+    "name": "Select data sets to use in the report",
+    "lastUpdated": "2024-05-06T08:45:59.691Z",
+    "createdOn": "2020-04-06T10:12:28.802Z",
+    "slug": "select-data-sets-to-use-in-the-report"
+  },
+  {
+    "id": "66c82ff38455c55e48e0939d",
+    "name": "Google Sheets",
+    "lastUpdated": "2024-07-31T08:16:05.454Z",
+    "createdOn": "2020-04-06T09:59:26.444Z",
+    "slug": "google-sheets"
+  },
+  {
+    "id": "66c82ff38455c55e48e0939c",
+    "name": "MS Excel",
+    "lastUpdated": "2023-10-19T12:04:22.632Z",
+    "createdOn": "2020-04-06T09:58:30.486Z",
+    "slug": "ms-excel"
+  },
+  {
+    "id": "66c82ff38455c55e48e0939a",
+    "name": "Google Data Studio",
+    "lastUpdated": "2023-10-19T12:04:20.538Z",
+    "createdOn": "2020-04-06T09:56:11.371Z",
+    "slug": "google-data-studio"
+  },
+  {
+    "id": "66c82ff38455c55e48e09399",
+    "name": "Power BI",
+    "lastUpdated": "2023-10-19T12:04:10.706Z",
+    "createdOn": "2020-04-06T09:54:53.153Z",
+    "slug": "power-bi"
+  },
+  {
+    "id": "66c82ff38455c55e48e09398",
+    "name": "Tableau",
+    "lastUpdated": "2023-10-19T12:04:14.381Z",
+    "createdOn": "2020-04-06T09:52:28.064Z",
+    "slug": "tableau"
+  },
+  {
+    "id": "66c82ff38455c55e48e09397",
+    "name": "Looker",
+    "lastUpdated": "2023-10-19T12:04:22.074Z",
+    "createdOn": "2020-04-06T09:50:49.393Z",
+    "slug": "looker"
+  },
+  {
+    "id": "66c82ff38455c55e48e09396",
+    "name": "How does it look for the user",
+    "lastUpdated": "2023-10-19T12:04:20.599Z",
+    "createdOn": "2020-04-06T09:44:30.971Z",
+    "slug": "how-does-it-look-for-the-user"
+  },
+  {
+    "id": "66c82ff38455c55e48e09395",
+    "name": "Giving temporary access",
+    "lastUpdated": "2023-10-19T12:04:20.513Z",
+    "createdOn": "2020-04-06T09:43:17.268Z",
+    "slug": "giving-temporary-access"
+  },
+  {
+    "id": "66c82ff38455c55e48e09394",
+    "name": "Sharing report with private link",
+    "lastUpdated": "2023-10-19T12:04:12.860Z",
+    "createdOn": "2020-04-06T09:42:19.797Z",
+    "slug": "sharing-report-with-private-link"
+  },
+  {
+    "id": "66c82ff38455c55e48e09393",
+    "name": "Sharing report via email",
+    "lastUpdated": "2023-10-19T12:04:12.829Z",
+    "createdOn": "2020-04-06T09:41:20.664Z",
+    "slug": "sharing-report-via-email"
+  },
+  {
+    "id": "66c82ff38455c55e48e09392",
+    "name": "PDF export by email new",
+    "lastUpdated": "2023-10-19T12:04:22.876Z",
+    "createdOn": "2020-04-06T09:39:51.928Z",
+    "slug": "pdf-export-by-email-new"
+  },
+  {
+    "id": "66c82ff38455c55e48e09391",
+    "name": "PDF export",
+    "lastUpdated": "2023-10-19T12:04:09.791Z",
+    "createdOn": "2020-04-06T09:36:58.564Z",
+    "slug": "pdf-export"
+  },
+  {
+    "id": "66c82ff38455c55e48e09390",
+    "name": "Amazon S3 Data Ingestion",
+    "lastUpdated": "2023-10-19T12:03:57.691Z",
+    "createdOn": "2020-04-04T19:03:57.440Z",
+    "slug": "amazon-s3-data-ingestion"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938f",
+    "name": "FTP data ingestion",
+    "lastUpdated": "2024-01-23T04:56:11.197Z",
+    "createdOn": "2020-04-04T19:00:26.088Z",
+    "slug": "ftp-data-ingestion"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938e",
+    "name": "Email Integration",
+    "lastUpdated": "2023-10-19T12:04:19.586Z",
+    "createdOn": "2020-04-04T18:59:14.161Z",
+    "slug": "email-integration"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938d",
+    "name": "Widget customization",
+    "lastUpdated": "2023-11-11T11:43:57.382Z",
+    "createdOn": "2020-04-04T17:23:17.386Z",
+    "slug": "widget-customization"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938c",
+    "name": "Table",
+    "lastUpdated": "2023-10-19T12:04:14.145Z",
+    "createdOn": "2020-04-04T17:23:16.988Z",
+    "slug": "table"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938b",
+    "name": "Stats summary",
+    "lastUpdated": "2023-10-19T12:04:14.032Z",
+    "createdOn": "2020-04-04T17:23:16.562Z",
+    "slug": "stats-summary"
+  },
+  {
+    "id": "66c82ff38455c55e48e0938a",
+    "name": "Pie chart",
+    "lastUpdated": "2023-10-19T12:04:10.008Z",
+    "createdOn": "2020-04-04T17:23:14.830Z",
+    "slug": "pie-chart"
+  },
+  {
+    "id": "66c82ff38455c55e48e09389",
+    "name": "PDF upload",
+    "lastUpdated": "2023-10-19T12:04:22.816Z",
+    "createdOn": "2020-04-04T17:23:14.361Z",
+    "slug": "pdf-upload"
+  },
+  {
+    "id": "66c82ff38455c55e48e09387",
+    "name": "Image upload",
+    "lastUpdated": "2023-10-19T12:04:21.255Z",
+    "createdOn": "2020-04-04T17:23:13.529Z",
+    "slug": "image-upload"
+  },
+  {
+    "id": "66c82ff38455c55e48e09388",
+    "name": "iFrame",
+    "lastUpdated": "2023-10-19T12:04:21.260Z",
+    "createdOn": "2020-04-04T17:23:13.123Z",
+    "slug": "iframe"
+  },
+  {
+    "id": "66c82ff38455c55e48e09386",
+    "name": "File upload",
+    "lastUpdated": "2023-10-19T12:04:01.654Z",
+    "createdOn": "2020-04-04T17:23:12.682Z",
+    "slug": "file-upload"
+  },
+  {
+    "id": "66c82ff38455c55e48e09385",
+    "name": "Define metrics (Campaign level data)",
+    "lastUpdated": "2024-05-03T11:42:33.731Z",
+    "createdOn": "2020-04-04T17:23:12.240Z",
+    "slug": "define-metrics-2"
+  },
+  {
+    "id": "66c82ff38455c55e48e09384",
+    "name": "CSV upload",
+    "lastUpdated": "2023-10-19T12:04:19.231Z",
+    "createdOn": "2020-04-04T17:23:11.334Z",
+    "slug": "csv-upload"
+  },
+  {
+    "id": "66c82ff38455c55e48e09383",
+    "name": "Create a template",
+    "lastUpdated": "2023-10-19T12:03:59.984Z",
+    "createdOn": "2020-04-04T17:23:10.157Z",
+    "slug": "create-a-template"
+  },
+  {
+    "id": "66c82ff38455c55e48e09382",
+    "name": "Create a report",
+    "lastUpdated": "2023-10-19T12:03:59.852Z",
+    "createdOn": "2020-04-04T17:23:09.734Z",
+    "slug": "create-a-report"
+  },
+  {
+    "id": "66c82ff38455c55e48e09381",
+    "name": "Connect data sources",
+    "lastUpdated": "2023-10-19T12:04:18.613Z",
+    "createdOn": "2020-04-04T17:23:09.104Z",
+    "slug": "connect-data-sources"
+  },
+  {
+    "id": "66c82ff38455c55e48e0937f",
+    "name": "Comment",
+    "lastUpdated": "2023-10-19T12:03:59.836Z",
+    "createdOn": "2020-04-04T17:23:06.986Z",
+    "slug": "comment"
+  },
+  {
+    "id": "66c82ff38455c55e48e09380",
+    "name": "Line/Column Chart",
+    "lastUpdated": "2023-11-11T11:43:56.336Z",
+    "createdOn": "2020-04-04T17:23:06.506Z",
+    "slug": "chart"
+  },
+  {
+    "id": "66c82ff38455c55e48e090da",
+    "name": "(Old) Improvado API - Google Spreadsheet",
+    "lastUpdated": "2023-10-19T12:04:24.134Z",
+    "createdOn": "2019-09-02T16:56:16.764Z",
+    "slug": "users-guide-to-the-rtb-media-in-google-docs"
+  },
+  {
+    "id": "66c82ff38455c55e48e090dd",
+    "name": "Sharing Your Report",
+    "lastUpdated": "2023-10-19T12:04:23.514Z",
+    "createdOn": "2019-09-02T16:56:10.644Z",
+    "slug": "sharing-your-report"
+  },
+  {
+    "id": "66c82ff38455c55e48e0937e",
+    "name": "Report Features",
+    "lastUpdated": "2023-10-19T12:04:23.353Z",
+    "createdOn": "2019-09-02T16:56:08.171Z",
+    "slug": "report-features"
+  },
+  {
+    "id": "66c82ff38455c55e48e090df",
+    "name": "Initial set up",
+    "lastUpdated": "2023-10-19T12:04:21.429Z",
+    "createdOn": "2019-09-02T16:56:04.723Z",
+    "slug": "initial-set-up2"
+  },
+  {
+    "id": "66c82ff38455c55e48e0937d",
+    "name": "Getting Started",
+    "lastUpdated": "2023-10-19T12:04:21.344Z",
+    "createdOn": "2019-09-02T16:56:01.624Z",
+    "slug": "initial-set-up"
+  },
+  {
+    "id": "66c82ff38455c55e48e090dc",
+    "name": "Create an Account",
+    "lastUpdated": "2023-10-19T12:04:19.551Z",
+    "createdOn": "2019-09-02T16:55:57.077Z",
+    "slug": "create-an-account"
+  },
+  {
+    "id": "66c82ff38455c55e48e090db",
+    "name": "Add widgets",
+    "lastUpdated": "2023-10-19T12:04:17.880Z",
+    "createdOn": "2019-09-02T16:55:35.609Z",
+    "slug": "add-widgets"
+  }
+]

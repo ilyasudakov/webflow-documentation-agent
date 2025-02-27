@@ -34,6 +34,12 @@ A Python-based agent for interacting with Webflow's Data API v2 to manage docume
 # List all documentation items
 python webflow_agent.py list
 
+# List all documentation items and save the list to a file
+python webflow_agent.py list --save
+
+# List all documentation items and save the list to a custom file and directory
+python webflow_agent.py list --save --output-dir "my_docs" --filename "webflow_docs.json"
+
 # Get a specific documentation item
 python webflow_agent.py get <item_id>
 
@@ -83,6 +89,7 @@ The agent uses the following environment variables:
 
 When using the `--save` option or the `save_content_to_file()` method, content is saved to:
 - Default directory: `collection_items/`
-- Filename format: `{item_name}_{item_id}.json`
+- Filename format for individual items: `{item_name}_{item_id}.json`
+- Filename for the full items list: `all_items.json` (customizable with `--filename`)
 
 These files can be used as context in other applications or loaded back into memory for further processing.
