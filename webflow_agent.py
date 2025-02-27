@@ -15,6 +15,7 @@ from dotenv import load_dotenv
 from rich.console import Console
 from rich.table import Table
 from rich.panel import Panel
+from pathlib import Path
 
 # Initialize console for rich output
 console = Console()
@@ -26,8 +27,7 @@ load_dotenv()
 API_TOKEN = os.getenv("WEBFLOW_API_TOKEN")
 SITE_ID = os.getenv("WEBFLOW_SITE_ID")
 COLLECTION_ID = os.getenv("WEBFLOW_COLLECTION_ID")
-API_BASE_URL = "https://api.webflow.com"
-API_VERSION = "2.0.0"  # Webflow Data API v2
+API_BASE_URL = "https://api.webflow.com/v2"
 
 class WebflowAgent:
     """Agent for interacting with Webflow Data API v2."""
@@ -39,7 +39,6 @@ class WebflowAgent:
         self.collection_id = collection_id
         self.headers = {
             "Authorization": f"Bearer {self.token}",
-            "Accept-Version": API_VERSION,
             "Content-Type": "application/json"
         }
         
@@ -122,6 +121,39 @@ class WebflowAgent:
         
         # Return the data structure for the update
         return {"fieldData": updated_data}
+    
+    def save_content_to_file(self, item: Dict, content: Any, base_dir: str = "collection_items") -> str:
+        """
+        Save the extracted content to a file in the specified directory.
+        
+        Args:
+            item (Dict): The item metadata containing id and name
+            content (Any): The content to save
+            base_dir (str): Base directory to save the files
+        
+        Returns:
+            str: Path to the saved file
+        """
+        # Create the directory if it doesn't exist
+        Path(base_dir).mkdir(exist_ok=True)
+        
+        # Get item details for filename
+        item_id = item.get("id", "unknown")
+        item_name = item.get("fieldData", {}).get("name", "untitled").replace(" ", "_").lower()
+        
+        # Create a filename based on item details
+        filename = f"{item_name}_{item_id}.json"
+        file_path = os.path.join(base_dir, filename)
+        
+        # Save the content to the file
+        with open(file_path, 'w', encoding='utf-8') as f:
+            if isinstance(content, (dict, list)):
+                json.dump(content, f, indent=2)
+            else:
+                f.write(str(content))
+        
+        console.print(f"[bold green]Content saved to:[/bold green] {file_path}")
+        return file_path
 
 
 def display_items(items: List[Dict]) -> None:
@@ -185,6 +217,8 @@ def main():
     extract_parser = subparsers.add_parser("extract", help="Extract content from a documentation item")
     extract_parser.add_argument("item_id", help="ID of the item to extract from")
     extract_parser.add_argument("--path", help="Dot-notation path to the content (e.g., 'content.sections.0.text')")
+    extract_parser.add_argument("--save", action="store_true", help="Save the extracted content to a file")
+    extract_parser.add_argument("--output-dir", default="collection_items", help="Directory to save the extracted content")
     
     # Update command
     update_parser = subparsers.add_parser("update", help="Update a documentation item")
@@ -218,6 +252,11 @@ def main():
         cursor_path = parse_cursor_path(args.path) if args.path else None
         content = agent.extract_document_content(item, cursor_path)
         console.print(json.dumps(content, indent=2))
+        
+        # Save the content to a file if requested
+        if args.save:
+            file_path = agent.save_content_to_file(item, content, args.output_dir)
+            console.print(f"[bold blue]Content saved for later use in Cursor context[/bold blue]")
     
     elif args.command == "update":
         # First get the current item
